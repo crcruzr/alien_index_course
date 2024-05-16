@@ -1,6 +1,7 @@
-# INVASIVE ALIEN INDEX
-the space - This code as part of the Modelling and Indicator Course 
+# INDEX OF INVASIVE & ALIEN SPECIES SPREAD
+This code is used as part of the Bios2 Modelling and Indicator Course 
 
+Designed using the COP15 Target 6, this indicator is to be used to monitor the spread and introducion of invasive species at the local scale of Québec.
 
 _Sonia Pagé_
 Département de Biologie, Université Laval, Québec (QC), Canada, sonia.page.1@ulaval.ca
