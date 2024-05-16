@@ -5,4 +5,5 @@
 
 # Don't ignore these
 !00RawData/taxon.csv
+!00RawData/RawData.csv
 !*/.gitkeep
