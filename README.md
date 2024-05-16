@@ -2,15 +2,15 @@
 the space - This code as part of the Modelling and Indicator Course 
 
 ## Authors
-_Sonia Pagé_ 
+_Sonia Pagé_ @SoniaPageUlaval
 Département de Biologie, Université Laval, Québec (QC), Canada.
 *sonia.page.1@ulaval.ca*
 
-_Ariane_ Barrette_
+_Ariane_ Barrette_ @ArianeBBarrette
 Département de Biologie, Université Laval, Québec (QC), Canada.
  *ariane.barette.2@ulaval.ca*
 
-_Marc-Antoine Poulin _
+_Marc-Antoine Poulin _ @marcanpou
 Département de Sciences Biologiques, Université de Montréal. Montréal (QC), Canada.
 *marc-antoine.poulin@umontreal.ca*
 
