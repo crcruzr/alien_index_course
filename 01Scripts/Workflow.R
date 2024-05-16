@@ -2,7 +2,6 @@
 ## DOWNLOAD AND CLEAN DATA FROM GBIF ##
 #######################################
 library(rgbif)
-library(scrubr)
 library(maps)
 library(ggplot2)
 library(terra)
@@ -94,6 +93,7 @@ mapp_qc_t$year <- as.numeric(mapp_qc_t$year)
 mapp_qc_t<-mapp_qc_t[!is.na(mapp_qc_t$year),]
 
 write.csv(mapp_qc_t, '02ProcessedData/qb_invasive_spp.csv', row.names = F)
+mapp_qc_t <- read.csv('02ProcessedData/qb_invasive_spp.csv', header = T)
 
 mapp_qc_t_70 <- mapp_qc_t[mapp_qc_t$year > 1970,]
 
@@ -125,16 +125,7 @@ ggplot(data = mapp_qc_t, aes(x = decimalLongitude,
               ylim = range(mapp_qc_t$decimalLatitude, na.rm = TRUE)) +
   theme_bw()
 
-hull_species1 <- chull(species1$temperature, species1$precipitation) ggplot(species1, aes(x = temperature, y = precipitation)) +
-geom_point(color = "blue") +
-geom_polygon(data = species1[hull_species1,], aes(x = temperature, y = precipitation),
-fill = NA, color = "blue") +
-labs(title = "Preferencias de Nicho de la Especie 1 con Polígono (Nicho de Grinnell)",
-x = "Temperatura", y = "Precipitación")+ theme_bw()
-
-
 #### area per spp per year
-
 yr <- unique(mapp_qc_t_70$year)
 yr<- yr[-46]
 
@@ -194,10 +185,8 @@ for(i in 1:length(sppq)) {
   }
 }
 
-write.csv(spp_area, '02ProcessedData/_invasive_spp.csv', row.names = F)
-
+#write.csv(spp_area, '02ProcessedData/_invasive_spp.csv', row.names = F)
 spp_area <- read.csv('/Users/ccruzr/Library/Mobile Documents/com~apple~CloudDocs/Cristian/Documents/Estudios/Postgrado/PhD/Courses/Modeling and Indicators Bios2/Alien_Indicator/02ProcessedData/area_invasive_spp.csv', header = T)
-
 spp_area2 <- (log1p(spp_area[,c(1:54)]))
 spp_area2$species <- spp_area$species
 names(spp_area)
