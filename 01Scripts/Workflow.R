@@ -8,7 +8,7 @@ library(ggplot2)
 library(terra)
 library(geodata)
 
-setwd('/Users/ccruzr/Library/Mobile Documents/com~apple~CloudDocs/Cristian/Documents/Estudios/Postgrado/PhD/Courses/Modeling and Indicators Bios2/Alien_Indicator')
+setwd('/Users/ccruzr/Library/Mobile Documents/com~apple~CloudDocs/Cristian/Documents/Estudios/Postgrado/PhD/Courses/Modeling and Indicators Bios2/alien_index_course')
 getwd()
 
 
@@ -60,6 +60,10 @@ length(table(results$species))
 (table(results$species))
 
 (table(results$year))
+
+write.csv(results, '00RawData/RawData.csv')
+results <- read.csv('00RawData/RawData.csv', header = T)
+
 
 # Precompute the count of each species
 species_counts <- as.data.frame(table(results$species))

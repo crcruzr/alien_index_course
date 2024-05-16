@@ -2,7 +2,7 @@
 the space - This code as part of the Modelling and Indicator Course 
 
 
-_Sonia Pagé_
+_Sonia Pagé_ 
 Département de Biologie, Université Laval, Québec (QC), Canada, sonia.page.1@ulaval.ca
 
 _Ariane_ Barrette_
