@@ -1,0 +1,8 @@
+# Ignore these
+00RawData/*
+01Scripts/InicialData.r*
+03Documents/*
+
+# Don't ignore these
+!00RawData/taxon.csv
+!*/.gitkeep

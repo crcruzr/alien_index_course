@@ -1,0 +1,1582 @@
+id,taxonID,scientificName,acceptedNameUsage,kingdom,phylum,class,order,family,taxonRank,taxonomicStatus
+156000,156000,"Abax parallelepipedus (Piller & Mitterpacher, 1783)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156001,156001,Abutilon theophrasti Medik.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED
+156002,156002,Acanthospermum hispidum DC.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156003,156003,"Acartia tonsa Dana, 1849",,Animalia,Arthropoda,Hexanauplia,Calanoida,Acartiidae,SPECIES,ACCEPTED
+156004,156004,Acer campestre L.,,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Sapindaceae,SPECIES,ACCEPTED
+156005,156005,Acer ginnala Maxim.,Acer tataricum subsp. ginnala (Maxim.) Wesmael,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Sapindaceae,SPECIES,SYNONYM
+156006,156006,Acer platanoides L.,,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Sapindaceae,SPECIES,ACCEPTED
+156007,156007,Acer pseudoplatanus L.,,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Sapindaceae,SPECIES,ACCEPTED
+156008,156008,"Achaearanea tabulata Levi, 1980","Parasteatoda tabulata (Levi, 1980)",Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,SPECIES,SYNONYM
+156009,156009,"Achaearanea tepidariorum (C.L.Koch, 1841)","Parasteatoda tepidariorum (C.L.Koch, 1841)",Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,SPECIES,SYNONYM
+156010,156010,Achillea filipendulina Lam.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156011,156011,Achillea ptarmica L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156012,156012,Acinos arvensis (Lam.) Dandy,Clinopodium acinos Kuntze,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,SYNONYM
+156013,156013,Aconitum napellus L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+156014,156014,Aconitum variegatum L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+156015,156015,Acorus calamus L.,,Plantae,Tracheophyta,Liliopsida,Acorales,Acoraceae,SPECIES,ACCEPTED
+156016,156016,Acroptilon repens (L.) DC.,Rhaponticum repens (L.) Hidalgo,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,SYNONYM
+156017,156017,"Acupalpus meridianus (Linnaeus, 1760)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156018,156018,"Adelges abietis (Linnaeus, 1758)",,Animalia,Arthropoda,Insecta,Hemiptera,Adelgidae,SPECIES,ACCEPTED
+156019,156019,"Adelges piceae (Ratzeburg, 1844)",,Animalia,Arthropoda,Insecta,Hemiptera,Adelgidae,SPECIES,ACCEPTED
+156020,156020,Adonis annua L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+156021,156021,"Aedes albopictus Skuse, 1894",,Animalia,Arthropoda,Insecta,Diptera,Culicidae,SPECIES,ACCEPTED
+156022,156022,"Aedes togoi (Theobald, 1907)",,Animalia,Arthropoda,Insecta,Diptera,Culicidae,SPECIES,ACCEPTED
+156023,156023,Aegilops cylindrica Host,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156024,156024,Aegopodium podagraria L.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156025,156025,Aesculus hippocastanum L.,,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Sapindaceae,SPECIES,ACCEPTED
+156026,156026,Aesculus pavia L.,,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Sapindaceae,SPECIES,ACCEPTED
+156027,156027,Aethusa cynapium L.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156028,156028,"Agonum muelleri (Herbst, 1784)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156029,156029,"Agrilus planipennis Fairmaire, 1888",,Animalia,Arthropoda,Insecta,Coleoptera,Buprestidae,SPECIES,ACCEPTED
+156030,156030,"Agrilus ribesi Schaefer, 1946",,Animalia,Arthropoda,Insecta,Coleoptera,Buprestidae,SPECIES,ACCEPTED
+156031,156031,Agrimonia eupatoria L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156032,156032,Agrimonia repens L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156033,156033,Agropyron cristatum (L.) Gaertn.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156034,156034,Agropyron fragile (Roth) P.Candargy,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156035,156035,Agrostemma githago L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156036,156036,Agrostis canina L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156037,156037,Agrostis capillaris L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156038,156038,Agrostis gigantea Roth,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156039,156039,Ailanthus altissima (Mill.) Swingle,,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Simaroubaceae,SPECIES,ACCEPTED
+156040,156040,Aira caryophyllea L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156041,156041,Aira praecox L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156042,156042,Ajuga genevensis L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156043,156043,Ajuga reptans L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156044,156044,"Alauda arvensis Linnaeus, 1758",,Animalia,Chordata,Aves,Passeriformes,Alaudidae,SPECIES,ACCEPTED
+156045,156045,Alcea rosea L.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED
+156046,156046,Alchemilla glabra Neygenf.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156047,156047,Alchemilla micans Buser,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156048,156048,Alchemilla monticola Opiz,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156049,156049,Alchemilla subcrenata Buser,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156050,156050,Alchemilla venosula Buser,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156051,156051,"Alectoris chukar (J.E.Gray, 1830)",,Animalia,Chordata,Aves,Galliformes,Phasianidae,SPECIES,ACCEPTED
+156052,156052,Alisma lanceolatum With.,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,SPECIES,ACCEPTED
+156053,156053,Alisma plantago-aquatica L.,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,SPECIES,ACCEPTED
+156054,156054,Alliaria petiolata (M.Bieb.) Cavara & Grande,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156055,156055,Allium fistulosum L.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Amaryllidaceae,SPECIES,ACCEPTED
+156056,156056,Allium oleraceum L.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Amaryllidaceae,SPECIES,ACCEPTED
+156057,156057,Allium sativum L.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Amaryllidaceae,SPECIES,ACCEPTED
+156058,156058,Allium vineale L.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Amaryllidaceae,SPECIES,ACCEPTED
+156059,156059,Alnus glutinosa (L.) Gaertn.,,Plantae,Tracheophyta,Magnoliopsida,Fagales,Betulaceae,SPECIES,ACCEPTED
+156060,156060,Alopecurus arundinaceus Poir.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156061,156061,Alopecurus geniculatus L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156062,156062,Alopecurus pratensis L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156063,156063,"Alosa sapidissima (Wilson, 1811)",,Animalia,Chordata,Actinopterygii,Clupeiformes,Clupeidae,SPECIES,ACCEPTED
+156064,156064,Althaea hirsuta L.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED
+156065,156065,Althaea officinalis L.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED
+156066,156066,Alyssum alyssoides (L.) L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156067,156067,Alyssum desertorum Stapf,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156068,156068,Alyssum murale Waldst. & Kit.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156069,156069,"Amara aenea (DeGeer, 1774)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156070,156070,"Amara anthobia A. & G.B.Villa, 1833",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156071,156071,"Amara apricaria (Paykull, 1790)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156072,156072,"Amara aulica (Panzer, 1796)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156073,156073,"Amara bifrons (Gyllenhal, 1810)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156074,156074,"Amara communis (Panzer, 1797)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156075,156075,"Amara eurynota (Panzer, 1796)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156076,156076,"Amara familiaris (Duftschmid, 1812)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156077,156077,"Amara fulva (O.F.MÃƒÂ¼ller, 1776)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156078,156078,"Amara ovata (Fabricius, 1792)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156079,156079,Amaranthus albus L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156080,156080,Amaranthus blitoides S.Watson,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156081,156081,Amaranthus blitum L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156082,156082,Amaranthus californicus (Moq.) S.Watson,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156083,156083,Amaranthus caudatus L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156084,156084,Amaranthus cruentus L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156085,156085,Amaranthus hybridus L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156086,156086,Amaranthus palmeri S.Watson,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156087,156087,Amaranthus powellii S.Watson,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156088,156088,Amaranthus retroflexus L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156089,156089,Amaranthus spinosus L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156090,156090,"Amaurobius ferox (Walckenaer, 1830)",,Animalia,Arthropoda,Arachnida,Araneae,Amaurobiidae,SPECIES,ACCEPTED
+156091,156091,"Amaurobius similis (Blackwall, 1861)",,Animalia,Arthropoda,Arachnida,Araneae,Amaurobiidae,SPECIES,ACCEPTED
+156092,156092,"Ameiurus melas (Rafinesque, 1820)",,Animalia,Chordata,Actinopterygii,Siluriformes,Ictaluridae,SPECIES,ACCEPTED
+156093,156093,"Ameiurus nebulosus (Lesueur, 1819)",,Animalia,Chordata,Actinopterygii,Siluriformes,Ictaluridae,SPECIES,ACCEPTED
+156094,156094,Ammophila arenaria Link,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156095,156095,Anagallis arvensis L.,"Lysimachia arvensis subsp. arvensis (L.) U.Manns & Anderb., 2009",Plantae,Tracheophyta,Magnoliopsida,Ericales,Primulaceae,SPECIES,SYNONYM
+156096,156096,Anchusa arvensis Tausch,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,DOUBTFUL
+156097,156097,Anchusa azurea Mill.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156098,156098,Anchusa officinalis L.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156099,156099,Anemone blanda Schott & Kotschy,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+156100,156100,Anemone ranunculoides L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+156101,156101,Anethum graveolens L.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156102,156102,Angelica sylvestris L.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156103,156103,"Anisodactylus binotatus (Fabricius, 1787)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156104,156104,Anoda cristata Schltdl.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED
+156105,156105,"Anoplophora glabripennis (Motschulsky, 1854)",,Animalia,Arthropoda,Insecta,Coleoptera,Cerambycidae,SPECIES,ACCEPTED
+156106,156106,Anthemis arvensis L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156107,156107,Anthemis cotula L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156108,156108,Anthoxanthum aristatum Boiss.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156109,156109,Anthoxanthum odoratum L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156110,156110,Anthriscus caucalis M.Bieb.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156111,156111,Anthriscus cerefolium Hoffm.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156112,156112,Anthriscus sylvestris (L.) Hoffm.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156113,156113,Anthyllis vulneraria L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156114,156114,Antirrhinum majus L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+156115,156115,Apera interrupta (L.) P.Beauv.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156116,156116,Apera spica-venti P.Beauv.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156117,156117,Aphanes arvensis L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156118,156118,Aphanes microcarpa (Boiss. & Reut.) Rothm.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156119,156119,Apium graveolens L.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156120,156120,Aquilegia vulgaris L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+156121,156121,Arabidopsis thaliana (L.) Heynh.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156122,156122,Arabis caucasica Willd.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156123,156123,Aralia elata (Miq.) Seem.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Araliaceae,SPECIES,ACCEPTED
+156124,156124,"Araneus diadematus Clerck, 1758",,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,SPECIES,ACCEPTED
+156125,156125,Arctium lappa L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156126,156126,Arctium minus Bernh.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156127,156127,Arctium tomentosum Mill.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156128,156128,"Arctosa perita (Latreille, 1799)",,Animalia,Arthropoda,Arachnida,Araneae,Lycosidae,SPECIES,ACCEPTED
+156129,156129,Arenaria serpyllifolia L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156130,156130,Argemone mexicana L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Papaveraceae,SPECIES,ACCEPTED
+156131,156131,Aristida oligantha Michx.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156132,156132,Aristolochia clematitis L.,,Plantae,Tracheophyta,Magnoliopsida,Piperales,Aristolochiaceae,SPECIES,ACCEPTED
+156133,156133,Aristolochia macrophylla Lam.,,Plantae,Tracheophyta,Magnoliopsida,Piperales,Aristolochiaceae,SPECIES,ACCEPTED
+156134,156134,"Armoracia rusticana P.Gaertn., B.Mey. & Scherb.",,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156135,156135,Arnoseris minima (L.) Schweigg. & Korte,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156136,156136,Arrhenatherum elatius (L.) P.Beauv. ex J.Presl & C.Presl,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156137,156137,Artemisia abrotanum L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156138,156138,Artemisia absinthium L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156139,156139,Artemisia annua L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156140,156140,Artemisia pontica L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156141,156141,Artemisia stelleriana Bess.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156142,156142,Artemisia vulgaris L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156143,156143,"Ascidiella aspersa (MÃƒÂ¼ller, 1776)",,Animalia,Chordata,Ascidiacea,Phlebobranchia,Ascidiidae,SPECIES,ACCEPTED
+156144,156144,Asparagus officinalis L.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Asparagaceae,SPECIES,ACCEPTED
+156145,156145,Asperugo procumbens L.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156146,156146,Asperula arvensis L.,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Rubiaceae,SPECIES,ACCEPTED
+156147,156147,Astragalus cicer L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156148,156148,Astragalus falcatus Lam.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156149,156149,Astragalus glycyphyllos L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156150,156150,"Astronotus ocellatus (Agassiz, 1831)",,Animalia,Chordata,Actinopterygii,Perciformes,Cichlidae,SPECIES,ACCEPTED
+156151,156151,Atriplex heterosperma Bunge,Atriplex micrantha Ledeb.,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,SYNONYM
+156152,156152,Atriplex hortensis L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156153,156153,Atriplex laciniata L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156154,156154,Atriplex littoralis L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156155,156155,Atriplex oblongifolia Waldst. & Kit.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156156,156156,Atriplex patula L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156157,156157,Atriplex rosea L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156158,156158,Aurinia saxatilis Desv.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156159,156159,Avena fatua L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156160,156160,Avena sativa L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156161,156161,Avena sterilis L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156162,156162,Avenula pubescens (Huds.) Dumort.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156163,156163,Axyris amaranthoides L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156164,156164,Azolla filiculoides Lam.,,Plantae,Tracheophyta,Polypodiopsida,Salviniales,Salviniaceae,SPECIES,ACCEPTED
+156165,156165,"Balantiocheilos melanopterus (Bleeker, 1850)",,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,SPECIES,ACCEPTED
+156166,156166,Baldellia ranunculoides Parl.,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,SPECIES,ACCEPTED
+156167,156167,Ballota nigra L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156168,156168,Baptisia australis R.Br.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156169,156169,Barbarea verna (Mill.) Asch.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156170,156170,Barbarea vulgaris W.T.Aiton,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156171,156171,Bassia hyssopifolia Kuntze,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156172,156172,"Batillaria attramentaria (G.B.Sowerby I, 1855)",,Animalia,Mollusca,Gastropoda,,Batillariidae,SPECIES,ACCEPTED
+156173,156173,"Bellamya chinensis (Gray, 1834)","Cipangopaludina chinensis (Gray, 1833)",Animalia,Mollusca,Gastropoda,Architaenioglossa,Viviparidae,SPECIES,SYNONYM
+156174,156174,Bellis perennis L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156175,156175,"Bembidion bruxellense Wesmael, 1835",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156176,156176,"Bembidion femoratum Sturm, 1825",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156177,156177,"Bembidion lampros (Herbst, 1784)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156178,156178,"Bembidion obtusum Audinet-Serville, 1821",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156179,156179,"Bembidion properans (Stephens, 1828)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156180,156180,"Bembidion stephensii Crotch, 1866",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156181,156181,"Bembidion tetracolum Say, 1823",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156182,156182,Berberis thunbergii DC.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Berberidaceae,SPECIES,ACCEPTED
+156183,156183,Berberis vulgaris L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Berberidaceae,SPECIES,ACCEPTED
+156184,156184,Berteroa incana DC.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156185,156185,"Betta splendens Regan, 1910",,Animalia,Chordata,Actinopterygii,Perciformes,Osphronemidae,SPECIES,ACCEPTED
+156186,156186,Betula pendula Roth,,Plantae,Tracheophyta,Magnoliopsida,Fagales,Betulaceae,SPECIES,ACCEPTED
+156187,156187,Betula pubescens Ehrh.,,Plantae,Tracheophyta,Magnoliopsida,Fagales,Betulaceae,SPECIES,ACCEPTED
+156188,156188,Bidens aristosa Britton,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156189,156189,Bidens bipinnata L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156190,156190,Bidens pilosa L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156191,156191,Bidens polylepis S.F.Blake,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156192,156192,Bistorta officinalis Raf.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+156193,156193,"Blemus discus (Fabricius, 1792)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156194,156194,Bolboschoenus glaucus (Lam.) S.G.Sm.,,Plantae,Tracheophyta,Liliopsida,Poales,Cyperaceae,SPECIES,ACCEPTED
+156195,156195,"Bombyx mori Linnaeus, 1758",,Animalia,Arthropoda,Insecta,Lepidoptera,Bombycidae,SPECIES,ACCEPTED
+156196,156196,Borago officinalis L.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156197,156197,"Botrylloides violaceus Oka, 1927",,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,SPECIES,ACCEPTED
+156198,156198,"Botryllus schlosseri (Pallas, 1766)",,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,SPECIES,ACCEPTED
+156199,156199,"Bradycellus harpalinus (Audinet-Serville, 1821)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156200,156200,Brassica juncea (L.) Czern.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156201,156201,Brassica napus L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156202,156202,Brassica nigra (L.) W.D.J.Koch,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156203,156203,Brassica oleracea L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156204,156204,Brassica rapa L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156205,156205,Briza maxima L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156206,156206,Briza media L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156207,156207,Briza minor L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156208,156208,Bromus aleutensis Trin.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,DOUBTFUL
+156209,156209,Bromus arvensis L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156210,156210,Bromus briziformis Fisch. & C.A.Mey.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156211,156211,Bromus commutatus Schrad.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156212,156212,Bromus danthoniae Trin.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156213,156213,Bromus diandrus Roth,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156214,156214,Bromus erectus Huds.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156215,156215,Bromus hordeaceus L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156216,156216,Bromus inermis Leyss.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156217,156217,Bromus japonicus Houtt.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156218,156218,Bromus racemosus L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156219,156219,Bromus secalinus L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156220,156220,Bromus squarrosus L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156221,156221,Bromus sterilis L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156222,156222,Bromus tectorum L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156223,156223,"Broscus cephalotes (Linnaeus, 1758)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156224,156224,Buddleja davidii Franch.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Scrophulariaceae,SPECIES,ACCEPTED
+156225,156225,Buglossoides arvensis (L.) I.M.Johnst.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156226,156226,Bunias orientalis L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156227,156227,Bupleurum rotundifolium L.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156228,156228,Butomus umbellatus L.,,Plantae,Tracheophyta,Liliopsida,Alismatales,Butomaceae,SPECIES,ACCEPTED
+156229,156229,"Bythotrephes cederstroemi SchÃƒÂ¶dler, 1863",,Animalia,Arthropoda,Branchiopoda,Diplostraca,Cercopagidae,SPECIES,ACCEPTED
+156230,156230,"Bythotrephes longimanus Leydig, 1860",,Animalia,Arthropoda,Branchiopoda,Diplostraca,Cercopagidae,SPECIES,ACCEPTED
+156231,156231,Cabomba caroliniana A.Gray,,Plantae,Tracheophyta,Magnoliopsida,Nymphaeales,Cabombaceae,SPECIES,ACCEPTED
+156232,156232,Cakile maritima Scop.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156233,156233,Calamagrostis epigejos (L.) Roth,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156234,156234,Calamintha sylvatica Bromf.,Clinopodium menthifolium subsp. Menthifolium,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,SYNONYM
+156235,156235,"Calathus fuscipes (Goeze, 1777)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156236,156236,Calendula officinalis L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156237,156237,"Callipepla californica (Shaw, 1798)",,Animalia,Chordata,Aves,Galliformes,Odontophoridae,SPECIES,ACCEPTED
+156238,156238,Callitriche stagnalis Scop.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+156239,156239,Calluna vulgaris (L.) Hull,,Plantae,Tracheophyta,Magnoliopsida,Ericales,Ericaceae,SPECIES,ACCEPTED
+156240,156240,Calystegia hederacea Wall. ex Roxb.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED
+156241,156241,Calystegia pellita G.Don,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED
+156242,156242,Camelina microcarpa Andrz. ex DC.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156243,156243,Camelina sativa Crantz,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156244,156244,Campanula cochleariifolia Lam.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Campanulaceae,SPECIES,ACCEPTED
+156245,156245,Campanula glomerata L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Campanulaceae,SPECIES,ACCEPTED
+156246,156246,Campanula latifolia L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Campanulaceae,SPECIES,ACCEPTED
+156247,156247,Campanula medium L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Campanulaceae,SPECIES,ACCEPTED
+156248,156248,Campanula persicifolia L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Campanulaceae,SPECIES,ACCEPTED
+156249,156249,Campanula rapunculoides L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Campanulaceae,SPECIES,ACCEPTED
+156250,156250,Campanula trachelium L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Campanulaceae,SPECIES,ACCEPTED
+156251,156251,"Campylopus introflexus Bridel, 1819",,Plantae,Bryophyta,Bryopsida,Dicranales,Dicranaceae,SPECIES,ACCEPTED
+156252,156252,"Canis familiaris Linnaeus, 1758","Canis lupus subsp. familiaris Linnaeus, 1758",Animalia,Chordata,Mammalia,Carnivora,Canidae,SPECIES,SYNONYM
+156253,156253,Cannabis sativa L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Cannabaceae,SPECIES,ACCEPTED
+156254,156254,"Caprella mutica Schurin, 1935",,Animalia,Arthropoda,Malacostraca,Amphipoda,Caprellidae,SPECIES,ACCEPTED
+156255,156255,Capsella bursa-pastoris (L.) Medik.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156256,156256,"Carabus granulatus Linnaeus, 1758",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156257,156257,Carabus nemoralis nemoralis,,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SUBSPECIES,ACCEPTED
+156258,156258,Caragana arborescens Lam.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156259,156259,Caragana frutex K.Koch,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156260,156260,Carassius auratus var. auratus,,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,VARIETY,ACCEPTED
+156261,156261,"Carcinus maenas (Linnaeus, 1758)",,Animalia,Arthropoda,Malacostraca,Decapoda,Carcinidae,SPECIES,ACCEPTED
+156262,156262,Cardamine flexuosa Withering,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156263,156263,Cardamine hirsuta L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156264,156264,Cardamine impatiens L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156265,156265,Cardaria chalepensis (L.) Hand.-Mazz.,Lepidium chalepense L.,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,SYNONYM
+156266,156266,Cardaria draba (L.) Desv.,Lepidium draba L.,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,SYNONYM
+156267,156267,Cardaria pubescens (C.A.Mey.) Jarm.,Lepidium appelianum Al-Shehbaz,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,SYNONYM
+156268,156268,Carduus acanthoides L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156269,156269,Carduus crispus L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156270,156270,Carduus nutans L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156271,156271,Carex acutiformis Ehrh.,,Plantae,Tracheophyta,Liliopsida,Poales,Cyperaceae,SPECIES,ACCEPTED
+156272,156272,Carex caryophyllea Latour.,,Plantae,Tracheophyta,Liliopsida,Poales,Cyperaceae,SPECIES,ACCEPTED
+156273,156273,Carex distans L.,,Plantae,Tracheophyta,Liliopsida,Poales,Cyperaceae,SPECIES,ACCEPTED
+156274,156274,Carex disticha Huds.,,Plantae,Tracheophyta,Liliopsida,Poales,Cyperaceae,SPECIES,ACCEPTED
+156275,156275,Carex divulsa Stokes,,Plantae,Tracheophyta,Liliopsida,Poales,Cyperaceae,SPECIES,ACCEPTED
+156276,156276,Carex flacca Schreb.,,Plantae,Tracheophyta,Liliopsida,Poales,Cyperaceae,SPECIES,ACCEPTED
+156277,156277,Carex hirta L.,,Plantae,Tracheophyta,Liliopsida,Poales,Cyperaceae,SPECIES,ACCEPTED
+156278,156278,Carex muricata L.,,Plantae,Tracheophyta,Liliopsida,Poales,Cyperaceae,SPECIES,ACCEPTED
+156279,156279,Carex panicea L.,,Plantae,Tracheophyta,Liliopsida,Poales,Cyperaceae,SPECIES,ACCEPTED
+156280,156280,Carex spicata Huds.,,Plantae,Tracheophyta,Liliopsida,Poales,Cyperaceae,SPECIES,ACCEPTED
+156281,156281,Carex sylvatica Huds.,,Plantae,Tracheophyta,Liliopsida,Poales,Cyperaceae,SPECIES,ACCEPTED
+156282,156282,Carthamus creticus L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156283,156283,Carthamus tinctorius L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156284,156284,Carum carvi L.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156285,156285,Catalpa bignonioides Walter,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Bignoniaceae,SPECIES,ACCEPTED
+156286,156286,Catalpa ovata G.Don,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Bignoniaceae,SPECIES,ACCEPTED
+156287,156287,Catalpa speciosa Warder ex Engelm.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Bignoniaceae,SPECIES,ACCEPTED
+156288,156288,"Cecina manchurica A.Adams, 1861",,Animalia,Mollusca,Gastropoda,Littorinimorpha,Pomatiopsidae,SPECIES,ACCEPTED
+156289,156289,Celastrus orbiculatus C.P.Thunberg ex A.Murray,,Plantae,Tracheophyta,Magnoliopsida,Celastrales,Celastraceae,SPECIES,ACCEPTED
+156290,156290,Centaurea benedicta (L.) L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156291,156291,Centaurea calcitrapa L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156292,156292,Centaurea cyanus L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156293,156293,Centaurea diffusa Lam.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156294,156294,Centaurea jacea L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156295,156295,Centaurea macrocephala Puschk. ex Willd.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156296,156296,Centaurea melitensis L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156297,156297,Centaurea montana L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156298,156298,Centaurea nigra L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156299,156299,Centaurea nigrescens Willd.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156300,156300,Centaurea scabiosa L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156301,156301,Centaurea solstitialis L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156302,156302,Centaurea stoebe L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156303,156303,Centaurium erythraea Rafn,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Gentianaceae,SPECIES,ACCEPTED
+156304,156304,Centaurium pulchellum (Sw.) Druce,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Gentianaceae,SPECIES,ACCEPTED
+156305,156305,"Centromerita bicolor (Blackwall, 1833)",,Animalia,Arthropoda,Arachnida,Araneae,Linyphiidae,SPECIES,ACCEPTED
+156306,156306,Cephalaria gigantea (Ledeb.) Bobrov,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+156307,156307,Cerastium fontanum Baumg.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156308,156308,Cerastium glomeratum Thuill.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156309,156309,Cerastium pumilum Curt.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156310,156310,Cerastium semidecandrum L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156311,156311,Cerastium tomentosum L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156312,156312,"Ceratostoma inornatum (RÃƒÂ©cluz, 1851)","Ocinebrellus inornatus (RÃ©cluz, 1851)",Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,SPECIES,SYNONYM
+156313,156313,"Cercidia prominens (Westring, 1851)",,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,SPECIES,ACCEPTED
+156314,156314,"Cercopagis pengoi (Ostroumov, 1891)",,Animalia,Arthropoda,Branchiopoda,Diplostraca,Cercopagidae,SPECIES,ACCEPTED
+156315,156315,Cerinthe major L.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156316,156316,Chaenomeles japonica (Thunb.) Lindl. ex Spach,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156317,156317,Chaenorrhinum minus (L.) Lange,Chaenorhinum minus subsp. minus (L.) Lange,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,SYNONYM
+156318,156318,Chamaecrista fasciculata (Michx.) Greene,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156319,156319,Chamaesyce humistrata (Engelm. ex A.Gray) Small,Euphorbia humistrata Engelm. ex A.Gray,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,SYNONYM
+156320,156320,Chamaesyce maculata (L.) Small,Euphorbia maculata L.,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,SYNONYM
+156321,156321,"Cheiracanthium mildei L.Koch, 1864",,Animalia,Arthropoda,Arachnida,Araneae,Cheiracanthiidae,SPECIES,ACCEPTED
+156322,156322,Chelidonium majus L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Papaveraceae,SPECIES,ACCEPTED
+156323,156323,Chenopodium album L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156324,156324,Chenopodium bonus-henricus L.,Blitum bonus-henricus (L.) Rchb.,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,SYNONYM
+156325,156325,Chenopodium ficifolium Sm.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156326,156326,Chenopodium macrospermum Hort.Ant. ex Moq.,"Oxybasis rubra (L.) S.Fuentes, Uotila & Borsch",Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,SYNONYM
+156327,156327,Chenopodium murale L.,"Chenopodiastrum murale (L.) S.Fuentes, Uotila & Borsch",Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,SYNONYM
+156328,156328,Chenopodium opulifolium Schrad.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156329,156329,Chenopodium polyspermum L.,"Lipandra polysperma (L.) S.Fuentes, Uotila & Borsch",Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,SYNONYM
+156330,156330,Chenopodium strictum Roth,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156331,156331,Chenopodium urbicum Trosganzenvoet,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156332,156332,Chenopodium vulvaria L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156333,156333,Chondrilla juncea L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156334,156334,Chorispora tenella DC.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156335,156335,"Chromobotia macracanthus (Bleeker, 1852)",,Animalia,Chordata,Actinopterygii,Cypriniformes,Cobitidae,SPECIES,ACCEPTED
+156336,156336,Chrysanthemum coccineum Sims,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156337,156337,Cicer arietinum L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156338,156338,"Cichlasoma nigrofasciatum (GÃƒÂ¼nther, 1867)","Amatitlania nigrofasciata (GÃ¼nther, 1867)",Animalia,Chordata,Actinopterygii,Perciformes,Cichlidae,SPECIES,SYNONYM
+156339,156339,Cichorium endivia L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156340,156340,Cichorium intybus L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156341,156341,"Ciona intestinalis (Linnaeus, 1767)",,Animalia,Chordata,Ascidiacea,Phlebobranchia,Cionidae,SPECIES,ACCEPTED
+156342,156342,Cirsium arvense (L.) Scop.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156343,156343,Cirsium palustre Scop.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156344,156344,Cirsium vulgare (Savi) Ten.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156345,156345,Citrullus colocynthis (L.) Schrad.,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,SPECIES,ACCEPTED
+156346,156346,Citrullus lanatus (Thunb.) Matsumura & Nakai,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,SPECIES,ACCEPTED
+156347,156347,Cladonia rangiformis Hoffm.,,Fungi,Ascomycota,Lecanoromycetes,Lecanorales,Cladoniaceae,SPECIES,ACCEPTED
+156348,156348,Cladrastis kentukea Rudd,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156349,156349,Clematis campaniflora Brot.,Clematis viticella subsp. campaniflora (Brot.) O.Kuntze,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,SYNONYM
+156350,156350,Clematis integrifolia L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+156351,156351,Clematis orientalis L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+156352,156352,Clematis recta L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+156353,156353,Clematis tangutica Korsh.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+156354,156354,Clematis terniflora DC.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+156355,156355,Clematis viorna L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+156356,156356,Clematis vitalba L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+156357,156357,Clematis viticella L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+156358,156358,Cleome hassleriana Chod.,Tarenaya hassleriana (Chodat) Iltis,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Cleomaceae,SPECIES,SYNONYM
+156359,156359,"Clivina collaris (Herbst, 1784)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156360,156360,"Clivina fossor (Linnaeus, 1758)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156361,156361,"Clubiona lutescens Westring, 1851",,Animalia,Arthropoda,Arachnida,Araneae,Clubionidae,SPECIES,ACCEPTED
+156362,156362,"Clubiona pallidula (Clerck, 1757)",,Animalia,Arthropoda,Arachnida,Araneae,Clubionidae,SPECIES,ACCEPTED
+156363,156363,"Coccinella septempunctata Linnaeus, 1758",,Animalia,Arthropoda,Insecta,Coleoptera,Coccinellidae,SPECIES,ACCEPTED
+156364,156364,"Coccinella undecimpunctata Linnaeus, 1758",,Animalia,Arthropoda,Insecta,Coleoptera,Coccinellidae,SPECIES,ACCEPTED
+156365,156365,Codium fragile (Suringar) Hariot,,Plantae,Chlorophyta,Ulvophyceae,Bryopsidales,Codiaceae,SPECIES,ACCEPTED
+156366,156366,Codium fragile subsp. tomentosoides (Goor) P.C.Silva,Codium fragile subsp. Fragile,Plantae,Chlorophyta,Ulvophyceae,Bryopsidales,Codiaceae,SUBSPECIES,SYNONYM
+156367,156367,"Coleosoma floridanum Banks, 1900",,Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,SPECIES,ACCEPTED
+156368,156368,"Colisa lalius (Hamilton, 1822)","Trichogaster lalius (Hamilton, 1822)",Animalia,Chordata,Actinopterygii,Perciformes,Osphronemidae,SPECIES,SYNONYM
+156369,156369,"Columba livia Gmelin, 1789",,Animalia,Chordata,Aves,Columbiformes,Columbidae,SPECIES,ACCEPTED
+156370,156370,Colutea arborescens L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156371,156371,Commelina communis L.,,Plantae,Tracheophyta,Liliopsida,Commelinales,Commelinaceae,SPECIES,ACCEPTED
+156372,156372,Conium maculatum L.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156373,156373,Conoclinium coelestinum DC.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156374,156374,Conringia orientalis Dumort.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156375,156375,Consolida ajacis (L.) Schur,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+156376,156376,Consolida regalis Gray,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+156377,156377,"Contarinia baeri (Prell, 1931)",,Animalia,Arthropoda,Insecta,Diptera,Cecidomyiidae,SPECIES,ACCEPTED
+156378,156378,Convallaria majalis L.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Asparagaceae,SPECIES,ACCEPTED
+156379,156379,Convolvulus arvensis L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED
+156380,156380,"Corbicula fluminea (O.F.MÃƒÂ¼ller, 1774)",,Animalia,Mollusca,Bivalvia,Venerida,Cyrenidae,SPECIES,ACCEPTED
+156381,156381,"Coregonus clupeaformis (Mitchill, 1818)",,Animalia,Chordata,Actinopterygii,Salmoniformes,Salmonidae,SPECIES,ACCEPTED
+156382,156382,Coreopsis grandiflora Hogg ex Sw.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156383,156383,Coreopsis verticillata L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156384,156384,Coriandrum sativum L.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156385,156385,Coronilla scorpioides Koch,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156386,156386,Coronilla varia L.,Securigera varia (L.) Lassen,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,SYNONYM
+156387,156387,Coronopus didymus (L.) Sm.,Lepidium didymum L.,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,SYNONYM
+156388,156388,Coronopus squamatus (Forssk.) Asch.,Lepidium coronopus (L.) Al-Shehbaz,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,SYNONYM
+156389,156389,Corrigiola litoralis L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156390,156390,Corydalis solida (L.) Clairv.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Papaveraceae,SPECIES,ACCEPTED
+156391,156391,Corylus avellana L.,,Plantae,Tracheophyta,Magnoliopsida,Fagales,Betulaceae,SPECIES,ACCEPTED
+156392,156392,Cosmos bipinnatus Cav.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156393,156393,Cota tinctoria J.Gay,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156394,156394,Cotinus coggygria Scop.,,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Anacardiaceae,SPECIES,ACCEPTED
+156395,156395,Cotoneaster acutifolius Turcz.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156396,156396,Cotoneaster bullatus Bois,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156397,156397,Cotoneaster divaricatus Rehder & E.H.Wilson,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156398,156398,Cotoneaster horizontalis Decne.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156399,156399,Cotoneaster lucidus Schltdl.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156400,156400,Cotoneaster niger (Wahlb.) Fr.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156401,156401,Cotoneaster simonsii hort. ex Baker,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156402,156402,Cotula coronopifolia L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156403,156403,Craspedacusta sowerbyi Lancaster,,Animalia,Cnidaria,Hydrozoa,Limnomedusae,Olindiidae,SPECIES,DOUBTFUL
+156404,156404,"Crassostrea gigas (Thunberg, 1793)","Magallana gigas (Thunberg, 1793)",Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,SPECIES,SYNONYM
+156405,156405,Crassula tillaea Lest.-Garl.,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Crassulaceae,SPECIES,ACCEPTED
+156406,156406,Crataegus monogyna Jacq.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156407,156407,Crepis capillaris (L.) Wallr.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156408,156408,Crepis nicaeensis Balbis,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156409,156409,Crepis pulchra L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156410,156410,Crepis tectorum L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156411,156411,Crepis vesicaria L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156412,156412,Crocus vernus (L.) Hill,,Plantae,Tracheophyta,Liliopsida,Asparagales,Iridaceae,SPECIES,ACCEPTED
+156413,156413,Croton capitatus Michx.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED
+156414,156414,Crypsis alopecuroides (Piller & Mitterp.) Schrad.,Sporobolus alopecuroides (Piller & Mitterp.) P.M.Peterson,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,SYNONYM
+156415,156415,Crypsis schoenoides P.Beauv.,Sporobolus aculeatus (L.) P.M.Peterson,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,SYNONYM
+156416,156416,"Cryptachaea blattea (Urquhart, 1886)",,Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,SPECIES,ACCEPTED
+156417,156417,Cryptantha intermedia Greene,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156418,156418,"Cryptococcus fagisuga Lindinger, 1936",,Animalia,Arthropoda,Insecta,Hemiptera,Eriococcidae,SPECIES,ACCEPTED
+156419,156419,"Crypturgus Erichson, 1836",,Animalia,Arthropoda,Insecta,Coleoptera,Curculionidae,SPECIES,ACCEPTED
+156420,156420,"Ctenopharyngodon idella (Valenciennes, 1844)",,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,SPECIES,ACCEPTED
+156421,156421,Cucumis melo L.,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,SPECIES,ACCEPTED
+156422,156422,Cucumis sativus L.,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,SPECIES,ACCEPTED
+156423,156423,Cucurbita pepo L.,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,SPECIES,ACCEPTED
+156424,156424,Cuphea viscosissima Jacq.,,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Lythraceae,SPECIES,ACCEPTED
+156425,156425,Cuscuta approximata Bab.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED
+156426,156426,Cuscuta compacta Juss. ex Choisy,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED
+156427,156427,Cuscuta epilinum Weihe,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED
+156428,156428,Cuscuta epithymum (L.) L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED
+156429,156429,Cyclachaena xanthiifolia Fresen.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156430,156430,Cydonia oblonga Mill.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156431,156431,"Cygnus olor (Gmelin, 1789)",,Animalia,Chordata,Aves,Anseriformes,Anatidae,SPECIES,ACCEPTED
+156432,156432,"Cymbalaria muralis P.Gaertner, B.Meyer & Scherb.",,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+156433,156433,Cynanchum laeve Pers.,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,SPECIES,ACCEPTED
+156434,156434,Cynanchum louiseae J.T.Kartesz & K.N.Gandhi,Vincetoxicum nigrum Moench,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,SPECIES,SYNONYM
+156435,156435,Cynanchum rossicum Kleop.,Vincetoxicum rossicum (Kleop.) Barbar.,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,SPECIES,SYNONYM
+156436,156436,Cynanchum vincetoxicum (L.) Pers.,"Vincetoxicum hirundinaria subsp. hirundinaria Medik., 1790",Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,SPECIES,SYNONYM
+156437,156437,Cynodon dactylon (L.) Pers.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156438,156438,Cynoglossum officinale L.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156439,156439,Cynosurus cristatus L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156440,156440,Cynosurus echinatus L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156441,156441,Cyperus fuscus L.,,Plantae,Tracheophyta,Liliopsida,Poales,Cyperaceae,SPECIES,ACCEPTED
+156442,156442,Cyprinus carpio var. carpio,,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,VARIETY,ACCEPTED
+156443,156443,Cytisus scoparius (L.) Link,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156444,156444,Dactylis glomerata L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156445,156445,Dactylorhiza majalis (Rchb.) P.F.Hunt & Summerh.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,SPECIES,ACCEPTED
+156446,156446,"Dallia pectoralis Bean, 1880",,Animalia,Chordata,Actinopterygii,Esociformes,Umbridae,SPECIES,ACCEPTED
+156447,156447,"Dama dama (Linnaeus, 1758)",,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,SPECIES,ACCEPTED
+156448,156448,"Danio rerio (Hamilton, 1822)",,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,SPECIES,ACCEPTED
+156449,156449,Danthonia decumbens DC.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156450,156450,Daphne laureola L.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Thymelaeaceae,SPECIES,ACCEPTED
+156451,156451,Daphne mezereum L.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Thymelaeaceae,SPECIES,ACCEPTED
+156452,156452,"Daphnia lumholtzi Sars, 1885",,Animalia,Arthropoda,Branchiopoda,Diplostraca,Daphniidae,SPECIES,ACCEPTED
+156453,156453,Datura innoxia Mill.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+156454,156454,Datura stramonium L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+156455,156455,Datura wrightii Regel,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+156456,156456,Daucus carota L.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156457,156457,"Deilephila elpenor (Linnaeus, 1758)",,Animalia,Arthropoda,Insecta,Lepidoptera,Sphingidae,SPECIES,ACCEPTED
+156458,156458,Delphinium elatum L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+156459,156459,"Dendrobaena octaedra (Savigny, 1826)",,Animalia,Annelida,Clitellata,Crassiclitellata,Lumbricidae,SPECIES,ACCEPTED
+156460,156460,Descurainia sophia (L.) Prantl,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156461,156461,Dianthus arenarius L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156462,156462,Dianthus armeria L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156463,156463,Dianthus barbatus L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156464,156464,Dianthus chinensis L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156465,156465,Dianthus deltoides L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156466,156466,Dianthus gratianopolitanus Vill.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156467,156467,Dianthus plumarius L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156468,156468,Dianthus seguieri Vill.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156469,156469,Dianthus sylvestris Wulfen,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156470,156470,"Dicymbium nigrum (Blackwall, 1834)",,Animalia,Arthropoda,Arachnida,Araneae,Linyphiidae,SPECIES,ACCEPTED
+156471,156471,"Didemnum vexillum Kott, 2002",,Animalia,Chordata,Ascidiacea,Aplousobranchia,Didemnidae,SPECIES,ACCEPTED
+156472,156472,Digitalis grandiflora Mill.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+156473,156473,Digitalis lanata Ehrh.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+156474,156474,Digitalis lutea L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+156475,156475,Digitalis purpurea L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+156476,156476,Digitaria ischaemum (Schreb.) Muhl.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156477,156477,Digitaria sanguinalis (L.) Scop.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156478,156478,"Diplosoma listerianum (Milne Edwards, 1841)",,Animalia,Chordata,Ascidiacea,Aplousobranchia,Didemnidae,SPECIES,ACCEPTED
+156479,156479,Diplotaxis erucoides (L.) DC.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156480,156480,Diplotaxis muralis DC.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156481,156481,Diplotaxis tenuifolia (L.) DC.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156482,156482,Diprion similis (Hartig),"Lophyrus similis Hartig, 1836",Animalia,Arthropoda,Insecta,Hymenoptera,Diprionidae,SPECIES,SYNONYM
+156483,156483,Dipsacus laciniatus L.,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+156484,156484,Dipsacus laciniatus L.,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+156485,156485,Dittrichia graveolens (L.) Greuter,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156486,156486,Doronicum pardalianches L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156487,156487,Draba verna L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156488,156488,Dracocephalum thymiflorum L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156489,156489,"Dreissena bugensis (Andrusov, 1897)",,Animalia,Mollusca,Bivalvia,Myida,Dreissenidae,SPECIES,ACCEPTED
+156490,156490,"Dreissena polymorpha (Pallas, 1771)",,Animalia,Mollusca,Bivalvia,Myida,Dreissenidae,SPECIES,ACCEPTED
+156491,156491,"Dromius fenestratus (Fabricius, 1794)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156492,156492,Duchesnea indica (Andr.) Focke,Potentilla indica (Andrews) T.Wolf,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,SYNONYM
+156493,156493,"Dyschirius globosus (Herbst, 1784)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156494,156494,"Dysdera crocata C.L.Koch, 1838",,Animalia,Arthropoda,Arachnida,Araneae,Dysderidae,SPECIES,ACCEPTED
+156495,156495,Dysphania ambrosioides (L.) Mosyakin & Clemants,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156496,156496,Dysphania botrys (L.) Mosyakin & Clemants,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156497,156497,Dysphania pumilio (R.Br.) Mosyakin & Clemants,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156498,156498,Dyssodia papposa (Vent.) Hitchc.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156499,156499,Echinacea purpurea (L.) Moench,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156500,156500,Echinochloa crus-galli (L.) P.Beauv.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156501,156501,Echinochloa frumentacea Link,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156502,156502,Echinops exaltatus Schrad.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156503,156503,Echinops sphaerocephalus L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156504,156504,Echium plantagineum L.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156505,156505,Echium pustulatum Sm.,Echium vulgare subsp. pustulatum (Sm.) E.Schmid & Gams,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156506,156506,Echium vulgare L.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156507,156507,Egeria densa Planch.,,Plantae,Tracheophyta,Liliopsida,Alismatales,Hydrocharitaceae,SPECIES,ACCEPTED
+156508,156508,Eichhornia crassipes Solms,,Plantae,Tracheophyta,Liliopsida,Commelinales,Pontederiaceae,SPECIES,ACCEPTED
+156509,156509,Elaeagnus angustifolia L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Elaeagnaceae,SPECIES,ACCEPTED
+156510,156510,Elaeagnus umbellata C.P.Thunb. ex A.Murray,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Elaeagnaceae,SPECIES,ACCEPTED
+156511,156511,"Elaphropus parvulus (Dejean, 1831)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156512,156512,Elatine hydropiper L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Elatinaceae,SPECIES,ACCEPTED
+156513,156513,Eleusine indica (L.) Gaertn.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156514,156514,Eleutherococcus pentaphyllus Nakai,Eleutherococcus sieboldianus (Makino) Koidz.,Plantae,Tracheophyta,Magnoliopsida,Apiales,Araliaceae,SPECIES,SYNONYM
+156515,156515,Elsholtzia ciliata (Thunb.) Hylander,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156516,156516,Elymus repens (L.) Gould,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156517,156517,"Enoplognatha latimana Hippa & Oksala, 1982",,Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,SPECIES,ACCEPTED
+156518,156518,"Enoplognatha ovata (Clerck, 1757)",,Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,SPECIES,ACCEPTED
+156519,156519,"Enoplognatha thoracica (Hahn, 1833)",,Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,SPECIES,ACCEPTED
+156520,156520,"Entelecara acuminata (Wider, 1834)",,Animalia,Arthropoda,Arachnida,Araneae,Linyphiidae,SPECIES,ACCEPTED
+156521,156521,Epilobium hirsutum L.,,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Onagraceae,SPECIES,ACCEPTED
+156522,156522,Epilobium montanum L.,,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Onagraceae,SPECIES,ACCEPTED
+156523,156523,Epilobium parviflorum (Schreb.) Schreb.,,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Onagraceae,SPECIES,ACCEPTED
+156524,156524,Epilobium tetragonum L.,,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Onagraceae,SPECIES,ACCEPTED
+156525,156525,Epipactis helleborine (L.) Crantz,,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,SPECIES,ACCEPTED
+156526,156526,"Equus caballus Linnaeus, 1758",,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,SPECIES,ACCEPTED
+156527,156527,Eragrostis cilianensis (All.) Vignolo ex Janch.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156528,156528,Eragrostis mexicana Link,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156529,156529,Eragrostis minor Host,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156530,156530,Eragrostis pilosa P.Beauv.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156531,156531,Eranthis hyemalis Salisb.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+156532,156532,Eremopoa altaica (Trin.) Roshev.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156533,156533,Eremopyrum orientale Jaub. & Spach,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156534,156534,Eremopyrum triticeum (Gaertn.) Nevski,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156535,156535,"Erigone dentipalpis (Wider, 1834)",,Animalia,Arthropoda,Arachnida,Araneae,Linyphiidae,SPECIES,ACCEPTED
+156536,156536,"Eriocheir sinensis H.Milne Edwards, 1853",,Animalia,Arthropoda,Malacostraca,Decapoda,Varunidae,SPECIES,ACCEPTED
+156537,156537,Eriochloa contracta Hitchcock,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156538,156538,Eriochloa villosa Kunth,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156539,156539,Erodium cicutarium (L.) L'HÃƒÂ©r.,,Plantae,Tracheophyta,Magnoliopsida,Geraniales,Geraniaceae,SPECIES,ACCEPTED
+156540,156540,Erodium moschatum (Burm.f.) L'HÃƒÂ©r.,,Plantae,Tracheophyta,Magnoliopsida,Geraniales,Geraniaceae,SPECIES,ACCEPTED
+156541,156541,Eruca vesicaria (L.) Cav.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156542,156542,Erucastrum gallicum O.E.Schulz,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156543,156543,Eryngium aquaticum L.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156544,156544,Eryngium campestre L.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156545,156545,Eryngium maritimum L.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156546,156546,Eryngium planum L.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156547,156547,Erysimum cheiri Crantz,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156548,156548,Erysimum hieraciifolium L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156549,156549,Erysimum marschallianum Andrz. ex M.Bieb.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156550,156550,Erysimum repandum L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156551,156551,Eschscholzia californica Cham.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Papaveraceae,SPECIES,ACCEPTED
+156552,156552,"Esox lucius Linnaeus, 1758",,Animalia,Chordata,Actinopterygii,Esociformes,Esocidae,SPECIES,ACCEPTED
+156553,156553,"Esox niger Lesueur, 1818",,Animalia,Chordata,Actinopterygii,Esociformes,Esocidae,SPECIES,ACCEPTED
+156554,156554,Euonymus alatus (Thunb.) Siebold,,Plantae,Tracheophyta,Magnoliopsida,Celastrales,Celastraceae,SPECIES,ACCEPTED
+156555,156555,Euonymus europaeus L.,,Plantae,Tracheophyta,Magnoliopsida,Celastrales,Celastraceae,SPECIES,ACCEPTED
+156556,156556,Euonymus fortunei (Turcz.) Hand.-Mazz.,,Plantae,Tracheophyta,Magnoliopsida,Celastrales,Celastraceae,SPECIES,ACCEPTED
+156557,156557,Euonymus nanus M.Bieb.,,Plantae,Tracheophyta,Magnoliopsida,Celastrales,Celastraceae,SPECIES,ACCEPTED
+156558,156558,Eupatorium cannabinum L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156559,156559,Eupatorium serotinum Michx.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156560,156560,Euphorbia cyparissias L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED
+156561,156561,Euphorbia davidii R.Subils,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED
+156562,156562,Euphorbia epithymoides L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED
+156563,156563,Euphorbia esula L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED
+156564,156564,Euphorbia exigua L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED
+156565,156565,Euphorbia helioscopia L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED
+156566,156566,Euphorbia heterophylla L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED
+156567,156567,Euphorbia lathyris L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED
+156568,156568,Euphorbia lucida Waldst. & Kit.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED
+156569,156569,Euphorbia marginata Pursh,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED
+156570,156570,Euphorbia myrsinites L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED
+156571,156571,Euphorbia peplus L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED
+156572,156572,Euphorbia platyphyllos L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED
+156573,156573,Euphrasia stricta J.P.Wolff ex J.F.Lehm.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Orobanchaceae,SPECIES,ACCEPTED
+156574,156574,Eutrochium fistulosum (Barratt) E.E.Lamont,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156575,156575,Fagopyrum esculentum Moench,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+156576,156576,Fagopyrum tataricum Gaertn.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+156577,156577,Fallopia bohemica (Chrtek & ChrtkovÃƒÂ¡) J.P.Bailey,Reynoutria bohemica Chrtek & ChrtkovÃ¡,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,SYNONYM
+156578,156578,Fallopia convolvulus (L.) ÃƒÂ.LÃƒÂ¶ve,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+156579,156579,Fallopia dumetorum (L.) Holub,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+156580,156580,Fallopia japonica (Houtt.) Ronse Decraene,Reynoutria japonica Houtt.,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,SYNONYM
+156581,156581,Fallopia sachalinensis (Friedrich Schmidt Petrop.) Ronse Decraene,Reynoutria sachalinensis Nakai,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,SYNONYM
+156582,156582,"Felis catus Linnaeus, 1758",,Animalia,Chordata,Mammalia,Carnivora,Felidae,SPECIES,ACCEPTED
+156583,156583,"Fenusa pusilla (Audinet-Serville, 1823)",,Animalia,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,SPECIES,DOUBTFUL
+156584,156584,Festuca filiformis Pourr.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156585,156585,Festuca heterophylla Lam.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156586,156586,Festuca ovina L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156587,156587,Festuca trachyphylla Hack.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156588,156588,Festuca valesiaca Schleich. ex Gaudin,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156589,156589,Filago vulgaris Lam.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156590,156590,Filipendula rubra (Hill) B.L.Rob.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156591,156591,Filipendula ulmaria (L.) Maxim.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156592,156592,Filipendula vulgaris Moench,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156593,156593,Foeniculum vulgare Mill.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156594,156594,Forsythia suspensa Vahl,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Oleaceae,SPECIES,ACCEPTED
+156595,156595,Forsythia viridissima Lindl.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Oleaceae,SPECIES,ACCEPTED
+156596,156596,Frangula alnus Mill.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rhamnaceae,SPECIES,ACCEPTED
+156597,156597,Fraxinus excelsior L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Oleaceae,SPECIES,ACCEPTED
+156598,156598,Froelichia gracilis (Hook.) Moq.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+156599,156599,Fumaria martinii Calv.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Papaveraceae,SPECIES,ACCEPTED
+156600,156600,Fumaria officinalis L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Papaveraceae,SPECIES,ACCEPTED
+156601,156601,Gadellia lactiflora (M.Bieb.) Schulkina,Campanula lactiflora M.Bieb.,Plantae,Tracheophyta,Magnoliopsida,Asterales,Campanulaceae,SPECIES,
+156602,156602,Gaillardia pulchella Foug.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156603,156603,Galanthus nivalis L.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Amaryllidaceae,SPECIES,ACCEPTED
+156604,156604,Galega officinalis L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156605,156605,Galeopsis bifida Boenn.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156606,156606,Galeopsis ladanum L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156607,156607,Galeopsis speciosa Mill.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156608,156608,Galeopsis tetrahit L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156609,156609,Galinsoga parviflora Cav.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156610,156610,Galinsoga quadriradiata Ruiz & Pav.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156611,156611,Galium anglicum Huds.,Galium parisiense L.,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Rubiaceae,SPECIES,SYNONYM
+156612,156612,Galium aparine L.,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Rubiaceae,SPECIES,ACCEPTED
+156613,156613,Galium glaucum L.,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Rubiaceae,SPECIES,ACCEPTED
+156614,156614,Galium mollugo L.,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Rubiaceae,SPECIES,ACCEPTED
+156615,156615,Galium odoratum Scop.,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Rubiaceae,SPECIES,ACCEPTED
+156616,156616,Galium saxatile L.,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Rubiaceae,SPECIES,ACCEPTED
+156617,156617,Galium sylvaticum L.,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Rubiaceae,SPECIES,ACCEPTED
+156618,156618,Galium tricornutum Dandy,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Rubiaceae,SPECIES,ACCEPTED
+156619,156619,Galium verum L.,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Rubiaceae,SPECIES,ACCEPTED
+156620,156620,Galium wirtgenii F.W.Schultz,Galium verum subsp. wirtgenii (F.W.Schultz) Oborny,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Rubiaceae,SPECIES,SYNONYM
+156621,156621,Gambusia affinis affinis,"Gambusia affinis (Baird & Girard, 1853)",Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,SUBSPECIES,SYNONYM
+156622,156622,Gamochaeta ustulata (Nutt.) J.Holub,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156623,156623,Gaura longiflora Spach,Oenothera filiformis (Small) W.L.Wagner & Hoch,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Onagraceae,SPECIES,SYNONYM
+156624,156624,Genista tinctoria L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156625,156625,Geranium columbinum L.,,Plantae,Tracheophyta,Magnoliopsida,Geraniales,Geraniaceae,SPECIES,ACCEPTED
+156626,156626,Geranium dissectum L.,,Plantae,Tracheophyta,Magnoliopsida,Geraniales,Geraniaceae,SPECIES,ACCEPTED
+156627,156627,Geranium molle L.,,Plantae,Tracheophyta,Magnoliopsida,Geraniales,Geraniaceae,SPECIES,ACCEPTED
+156628,156628,Geranium pratense L.,,Plantae,Tracheophyta,Magnoliopsida,Geraniales,Geraniaceae,SPECIES,ACCEPTED
+156629,156629,Geranium pusillum L.,,Plantae,Tracheophyta,Magnoliopsida,Geraniales,Geraniaceae,SPECIES,ACCEPTED
+156630,156630,Geranium pyrenaicum Burm.f.,,Plantae,Tracheophyta,Magnoliopsida,Geraniales,Geraniaceae,SPECIES,ACCEPTED
+156631,156631,Geranium sanguineum L.,,Plantae,Tracheophyta,Magnoliopsida,Geraniales,Geraniaceae,SPECIES,ACCEPTED
+156632,156632,Geranium sylvaticum L.,,Plantae,Tracheophyta,Magnoliopsida,Geraniales,Geraniaceae,SPECIES,ACCEPTED
+156633,156633,"Geukensia demissa (Dillwyn, 1817)",,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,SPECIES,ACCEPTED
+156634,156634,Geum urbanum L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156635,156635,Gilia capitata Sims,,Plantae,Tracheophyta,Magnoliopsida,Ericales,Polemoniaceae,SPECIES,ACCEPTED
+156636,156636,Gilpinia hercyniae (Hartig),,Animalia,Arthropoda,Insecta,Hymenoptera,Diprionidae,SPECIES,ACCEPTED
+156637,156637,Glaucium flavum Crantz,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Papaveraceae,SPECIES,ACCEPTED
+156638,156638,Glebionis coronaria (L.) Tzvelev,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156639,156639,Glebionis segetum Fourr.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156640,156640,Glechoma hederacea L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156641,156641,Glyceria declinata Breb.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156642,156642,Glyceria fluitans R.Br.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156643,156643,Glyceria maxima Holmb.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156644,156644,Glyceria notata Chevall.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156645,156645,Glycine max (L.) Merr.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156646,156646,Gnaphalium uliginosum L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156647,156647,Guizotia abyssinica (L.f.) Cass.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156648,156648,"Gymnocephalus cernuus (Linnaeus, 1758)","Gymnocephalus cernua (Linnaeus, 1758)",Animalia,Chordata,Actinopterygii,Perciformes,Percidae,SPECIES,SYNONYM
+156649,156649,"Gymnocorymbus ternetzi (Boulenger, 1895)",,Animalia,Chordata,Actinopterygii,Characiformes,Characidae,SPECIES,ACCEPTED
+156650,156650,Gypsophila elegans M.Bieb.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156651,156651,Gypsophila muralis L.,Psammophiliella muralis (L.) Ikonn.,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,SYNONYM
+156652,156652,Gypsophila paniculata L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156653,156653,Gypsophila scorzonerifolia Ser.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156654,156654,"Gyrinocheilus aymonieri (Tirant, 1883)",,Animalia,Chordata,Actinopterygii,Cypriniformes,Gyrinocheilidae,SPECIES,ACCEPTED
+156655,156655,"Halyomorpha halys (StÃƒÂ¥l, 1855)",,Animalia,Arthropoda,Insecta,Hemiptera,Pentatomidae,SPECIES,ACCEPTED
+156656,156656,"Harmonia axyridis (Pallas, 1773)",,Animalia,Arthropoda,Insecta,Coleoptera,Coccinellidae,SPECIES,ACCEPTED
+156657,156657,"Harpalus affinis (Schrank, 1781)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156658,156658,"Harpalus rubripes (Duftschmid, 1812)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156659,156659,Harpalus rufipes De Geer,,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156660,156660,Hedera helix L.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Araliaceae,SPECIES,ACCEPTED
+156661,156661,Helenium flexuosum Raf.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156662,156662,Helianthus grosseserratus Martins,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156663,156663,Helianthus hirsutus Raf.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156664,156664,Helianthus mollis Lam.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156665,156665,Helminthotheca echioides (L.) Holub,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156666,156666,"Helostoma temminkii Cuvier, 1829","Helostoma temminckii Cuvier, 1829",Animalia,Chordata,Actinopterygii,Perciformes,Helostomatidae,SPECIES,SYNONYM
+156667,156667,Hemerocallis fulva L.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Asphodelaceae,SPECIES,ACCEPTED
+156668,156668,Hemerocallis lilioasphodelus L.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Asphodelaceae,SPECIES,ACCEPTED
+156669,156669,"Hemichromis bimaculatus Gill, 1862",,Animalia,Chordata,Actinopterygii,Perciformes,Cichlidae,SPECIES,ACCEPTED
+156670,156670,"Hemigrammus erythrozonus Durbin, 1909",,Animalia,Chordata,Actinopterygii,Characiformes,Characidae,SPECIES,ACCEPTED
+156671,156671,"Hemigrapsus sanguineus (De Haan, 1835)",,Animalia,Arthropoda,Malacostraca,Decapoda,Varunidae,SPECIES,ACCEPTED
+156672,156672,Heracleum mantegazzianum Sommier & Levier,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156673,156673,Heracleum sphondylium L.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156674,156674,Herniaria glabra L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156675,156675,Hesperis matronalis L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156676,156676,Hibiscus trionum L.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED
+156677,156677,Hieracium aurantiacum L.,Pilosella aurantiaca subsp. Aurantiaca,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,SYNONYM
+156678,156678,Hieracium caespitosum Dahlst.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156679,156679,Hieracium flagellare Schur,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156680,156680,Hieracium glomeratum Fries,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156681,156681,Hieracium lactucella Wallr.,Pilosella lactucella subsp. Lactucella,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,SYNONYM
+156682,156682,Hieracium maculatum Schrank,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156683,156683,Hieracium murorum L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156684,156684,Hieracium pilosella L.,Pilosella officinarum Vaill.,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,SYNONYM
+156685,156685,Hieracium piloselloides Wallr.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156686,156686,Hieracium praealtum Rchb.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156687,156687,Hieracium sabaudum L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156688,156688,"Hippodamia variegata (Goeze, 1777)",,Animalia,Arthropoda,Insecta,Coleoptera,Coccinellidae,SPECIES,ACCEPTED
+156689,156689,Hippophae rhamnoides L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Elaeagnaceae,SPECIES,ACCEPTED
+156690,156690,Holcus lanatus L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156691,156691,Holcus mollis L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156692,156692,Holosteum umbellatum L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156693,156693,Hordeum depressum Rydb.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156694,156694,Hordeum marinum Huds.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156695,156695,Hordeum murinum L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156696,156696,Hordeum pusillum Nutt.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156697,156697,Hordeum vulgare L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156698,156698,Hosta plantaginea Asch.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Asparagaceae,SPECIES,ACCEPTED
+156699,156699,"Hucho hucho (Linnaeus, 1758)",,Animalia,Chordata,Actinopterygii,Salmoniformes,Salmonidae,SPECIES,ACCEPTED
+156700,156700,Humulus japonicus Sieb. & Zucc.,Humulus scandens (Lour.) Merr.,Plantae,Tracheophyta,Magnoliopsida,Rosales,Cannabaceae,SPECIES,SYNONYM
+156701,156701,Hyacinthoides hispanica (Mill.) Rothm.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Asparagaceae,SPECIES,ACCEPTED
+156702,156702,Hydrangea arborescens L.,,Plantae,Tracheophyta,Magnoliopsida,Cornales,Hydrangeaceae,SPECIES,ACCEPTED
+156703,156703,Hydrangea paniculata Siebold,,Plantae,Tracheophyta,Magnoliopsida,Cornales,Hydrangeaceae,SPECIES,ACCEPTED
+156704,156704,Hydrocharis morsus-ranae L.,,Plantae,Tracheophyta,Liliopsida,Alismatales,Hydrocharitaceae,SPECIES,ACCEPTED
+156705,156705,"Hyles euphorbiae (Linnaeus, 1758)",,Animalia,Arthropoda,Insecta,Lepidoptera,Sphingidae,SPECIES,ACCEPTED
+156706,156706,Hylotelephium telephioides (Michx.) H.Ohba,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Crassulaceae,SPECIES,ACCEPTED
+156707,156707,Hylotelephium telephium (L.) H.Ohba,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Crassulaceae,SPECIES,ACCEPTED
+156708,156708,Hyoscyamus albus L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+156709,156709,Hyoscyamus niger L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+156710,156710,Hypericum androsaemum L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Hypericaceae,SPECIES,ACCEPTED
+156711,156711,Hypericum maculatum Crantz,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Hypericaceae,SPECIES,ACCEPTED
+156712,156712,Hypericum perforatum L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Hypericaceae,SPECIES,ACCEPTED
+156713,156713,Hypericum pulchrum L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Hypericaceae,SPECIES,ACCEPTED
+156714,156714,"Hyphessobrycon eques (Steindachner, 1882)",,Animalia,Chordata,Actinopterygii,Characiformes,Characidae,SPECIES,ACCEPTED
+156715,156715,"Hyphessobrycon erythrostigma (Fowler, 1943)",,Animalia,Chordata,Actinopterygii,Characiformes,Characidae,SPECIES,ACCEPTED
+156716,156716,"Hyphessobrycon herbertaxelrodi GÃƒÂ©ry, 1961",,Animalia,Chordata,Actinopterygii,Characiformes,Characidae,SPECIES,ACCEPTED
+156717,156717,"Hyphessobrycon pulchripinnis Ahl, 1937",,Animalia,Chordata,Actinopterygii,Characiformes,Characidae,SPECIES,ACCEPTED
+156718,156718,Hypochaeris glabra L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156719,156719,Hypochaeris radicata L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156720,156720,"Hypophthalmichthys nobilis (Richardson, 1845)",,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,SPECIES,ACCEPTED
+156721,156721,Hyssopus officinalis L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156722,156722,Iberis amara L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156723,156723,Iberis umbellata L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156724,156724,"Ictiobus cyprinellus (Valenciennes, 1844)",,Animalia,Chordata,Actinopterygii,Cypriniformes,Catostomidae,SPECIES,ACCEPTED
+156725,156725,"Ictiobus niger (Rafinesque, 1819)",,Animalia,Chordata,Actinopterygii,Cypriniformes,Catostomidae,SPECIES,ACCEPTED
+156726,156726,Ilex aquifolium L.,,Plantae,Tracheophyta,Magnoliopsida,Aquifoliales,Aquifoliaceae,SPECIES,ACCEPTED
+156727,156727,Impatiens glandulifera Royle,,Plantae,Tracheophyta,Magnoliopsida,Ericales,Balsaminaceae,SPECIES,ACCEPTED
+156728,156728,Impatiens parviflora DC.,,Plantae,Tracheophyta,Magnoliopsida,Ericales,Balsaminaceae,SPECIES,ACCEPTED
+156729,156729,Inula britannica M.Bieb.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156730,156730,Inula helenium L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156731,156731,Ionopsidium acaule Rchb.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156732,156732,Ipomoea hederacea Jacq.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED
+156733,156733,Ipomoea lacunosa L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED
+156734,156734,Ipomoea purpurea (L.) Roth,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED
+156735,156735,Ipomoea quamoclit L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,SPECIES,ACCEPTED
+156736,156736,Ipomopsis rubra (L.) Wherry,,Plantae,Tracheophyta,Magnoliopsida,Ericales,Polemoniaceae,SPECIES,ACCEPTED
+156737,156737,Iris ensata Thunb.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Iridaceae,SPECIES,ACCEPTED
+156738,156738,Iris foetidissima L.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Iridaceae,SPECIES,ACCEPTED
+156739,156739,Iris germanica L.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Iridaceae,SPECIES,ACCEPTED
+156740,156740,Iris pallida Lam.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Iridaceae,SPECIES,ACCEPTED
+156741,156741,Iris pseudacorus L.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Iridaceae,SPECIES,ACCEPTED
+156742,156742,Iris pumila L.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Iridaceae,SPECIES,ACCEPTED
+156743,156743,Iris sibirica L.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Iridaceae,SPECIES,ACCEPTED
+156744,156744,Isatis tinctoria L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156745,156745,"Ischnothyreus peltifer (Simon, 1892)",,Animalia,Arthropoda,Arachnida,Araneae,Oonopidae,SPECIES,ACCEPTED
+156746,156746,Isolepis setacea (L.) R.Br.,,Plantae,Tracheophyta,Liliopsida,Poales,Cyperaceae,SPECIES,ACCEPTED
+156747,156747,Juglans regia L.,,Plantae,Tracheophyta,Magnoliopsida,Fagales,Juglandaceae,SPECIES,ACCEPTED
+156748,156748,Juncus bulbosus L.,,Plantae,Tracheophyta,Liliopsida,Poales,Juncaceae,SPECIES,ACCEPTED
+156749,156749,Juncus compressus Jacq.,,Plantae,Tracheophyta,Liliopsida,Poales,Juncaceae,SPECIES,ACCEPTED
+156750,156750,Juncus inflexus L.,,Plantae,Tracheophyta,Liliopsida,Poales,Juncaceae,SPECIES,ACCEPTED
+156751,156751,Kalopanax septemlobus Koidz.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Araliaceae,SPECIES,ACCEPTED
+156752,156752,"Keijia tincta (Walckenaer, 1802)","Platnickina tincta (Walckenaer, 1802)",Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,SPECIES,SYNONYM
+156753,156753,Kerria japonica (L.) DC.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156754,156754,Kickxia elatine (L.) Dumort.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+156755,156755,Kickxia spuria Dumort.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+156756,156756,Knautia arvensis Coult.,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+156757,156757,Kochia scoparia (L.) Schrad.,Bassia scoparia subsp. Scoparia,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,SYNONYM
+156758,156758,Kolkwitzia amabilis Graebn.,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+156759,156759,Lablab purpureus (L.) Sweet,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156760,156760,Laburnum anagyroides Medik.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156761,156761,Lactuca saligna L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156762,156762,Lactuca sativa L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156763,156763,Lactuca serriola L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156764,156764,"Laemostenus complanatus (Dejean, 1828)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156765,156765,"Laemostenus terricola (Herbst, 1784)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156766,156766,Lagurus ovatus L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156767,156767,Lamiastrum galeobdolon (L.) Ehrend. & Polatschek,Lamium galeobdolon (L.) L.,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,SYNONYM
+156768,156768,Lamium album L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156769,156769,Lamium amplexicaule L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156770,156770,Lamium maculatum L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156771,156771,Lamium purpureum L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156772,156772,Lappula squarrosa Dumort.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156773,156773,Lapsana communis L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156774,156774,"Larinioides sclopetarius (Clerck, 1757)",,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,SPECIES,ACCEPTED
+156775,156775,Larix decidua Mill.,,Plantae,Tracheophyta,Pinopsida,Pinales,Pinaceae,SPECIES,ACCEPTED
+156776,156776,Lathyrus aphaca L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156777,156777,Lathyrus latifolius L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156778,156778,Lathyrus niger Bernh.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156779,156779,Lathyrus odoratus L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156780,156780,Lathyrus pratensis L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156781,156781,Lathyrus sativus L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156782,156782,Lathyrus sphaericus Retz.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156783,156783,Lathyrus sylvestris L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156784,156784,Lathyrus tuberosus L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156785,156785,"Lathys humilis (Blackwall, 1855)",,Animalia,Arthropoda,Arachnida,Araneae,Dictynidae,SPECIES,ACCEPTED
+156786,156786,Lavatera thuringiaca L.,Malva thuringiaca subsp. Thuringiaca,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED
+156787,156787,"Leistus ferrugineus (Linnaeus, 1758)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156788,156788,Lemna perpusilla Torr.,,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,SPECIES,ACCEPTED
+156789,156789,Lens culinaris Medik.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156790,156790,Leontodon autumnalis Oed.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156791,156791,Leontodon hispidus L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156792,156792,Leontodon saxatilis Lam.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156793,156793,Leonurus cardiaca L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156794,156794,Leonurus sibiricus L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156795,156795,Lepidium aucheri Boiss.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156796,156796,Lepidium campestre (L.) W.T.Aiton,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156797,156797,Lepidium heterophyllum (DC.) Benth.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156798,156798,Lepidium latifolium L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156799,156799,Lepidium perfoliatum L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156800,156800,Lepidium ruderale L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156801,156801,Lepidium sativum L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156802,156802,"Lepomis gibbosus (Linnaeus, 1758)",,Animalia,Chordata,Actinopterygii,Perciformes,Centrarchidae,SPECIES,ACCEPTED
+156803,156803,"Lepomis gulosus (Cuvier, 1829)",,Animalia,Chordata,Actinopterygii,Perciformes,Centrarchidae,SPECIES,ACCEPTED
+156804,156804,"Lepomis humilis (Girard, 1858)",,Animalia,Chordata,Actinopterygii,Perciformes,Centrarchidae,SPECIES,ACCEPTED
+156805,156805,"Lepthyphantes leprosus (Ohlert, 1865)",,Animalia,Arthropoda,Arachnida,Araneae,Linyphiidae,SPECIES,ACCEPTED
+156806,156806,"Lepthyphantes nebulosus (Sundevall, 1830)","Megalepthyphantes nebulosus (Sundevall, 1830)",Animalia,Arthropoda,Arachnida,Araneae,Linyphiidae,SPECIES,SYNONYM
+156807,156807,"Lepthyphantes tenuis (Blackwall, 1852)","Tenuiphantes tenuis (Blackwall, 1852)",Animalia,Arthropoda,Arachnida,Araneae,Linyphiidae,SPECIES,SYNONYM
+156808,156808,Leptochloa fusca Forssk.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156809,156809,"Lepus europaeus Pallas, 1778",,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,SPECIES,ACCEPTED
+156810,156810,Lespedeza bicolor Turcz.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156811,156811,Lespedeza cuneata,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156812,156812,Lespedeza thunbergii Nakai,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156813,156813,"Lessertia dentichelis (Simon, 1884)",,Animalia,Arthropoda,Arachnida,Araneae,Linyphiidae,SPECIES,ACCEPTED
+156814,156814,Leucanthemella serotina (L.) Tzvelev,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156815,156815,Leucanthemum vulgare Lam.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156816,156816,Leucojum aestivum L.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Amaryllidaceae,SPECIES,ACCEPTED
+156817,156817,Levisticum officinale W.D.J.Koch,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156818,156818,Leymus angustus (Trin.) Pilg.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156819,156819,Leymus arenarius Hochst.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156820,156820,Ligustrum ovalifolium Hassk.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Oleaceae,SPECIES,ACCEPTED
+156821,156821,Ligustrum vulgare Thunb.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Oleaceae,SPECIES,DOUBTFUL
+156822,156822,Lilium bulbiferum L.,,Plantae,Tracheophyta,Liliopsida,Liliales,Liliaceae,SPECIES,ACCEPTED
+156823,156823,Lilium lancifolium Thunb.,,Plantae,Tracheophyta,Liliopsida,Liliales,Liliaceae,SPECIES,ACCEPTED
+156824,156824,Lilium martagon L.,,Plantae,Tracheophyta,Liliopsida,Liliales,Liliaceae,SPECIES,ACCEPTED
+156825,156825,Limonium vulgare Mill.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Plumbaginaceae,SPECIES,ACCEPTED
+156826,156826,Linaria dalmatica Mill.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+156827,156827,Linaria maroccana Hook.f.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+156828,156828,Linaria purpurea Mill.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+156829,156829,Linaria repens Mill.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+156830,156830,Linaria vulgaris Mill.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+156831,156831,Linum austriacum L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Linaceae,SPECIES,ACCEPTED
+156832,156832,Linum bienne Mill.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Linaceae,SPECIES,ACCEPTED
+156833,156833,Linum catharticum L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Linaceae,SPECIES,ACCEPTED
+156834,156834,Linum perenne L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Linaceae,SPECIES,ACCEPTED
+156835,156835,Linum usitatissimum L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Linaceae,SPECIES,ACCEPTED
+156836,156836,Listera ovata (L.) R.Br.,Neottia ovata Bluff & Fingerh.,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,SPECIES,SYNONYM
+156837,156837,Lithospermum officinale L.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156838,156838,"Littorina littorea (Linnaeus, 1758)",,Animalia,Mollusca,Gastropoda,Littorinimorpha,Littorinidae,SPECIES,ACCEPTED
+156839,156839,Lobularia maritima (L.) Desv.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156840,156840,Logfia arvensis (L.) Holub,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156841,156841,Logfia minima Dumort.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156842,156842,Lolium multiflorum Lam.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156843,156843,Lolium perenne L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156844,156844,Lolium persicum Boiss.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156845,156845,Lolium rigidum Gaudin,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156846,156846,Lolium temulentum L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156847,156847,Lonicera caprifolium L.,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+156848,156848,Lonicera chrysantha Turcz.,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+156849,156849,Lonicera etrusca Santi,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+156850,156850,Lonicera japonica Thunb.,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+156851,156851,Lonicera maackii (Rupr.) Maxim.,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+156852,156852,Lonicera morrowii A.Gray,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+156853,156853,Lonicera periclymenum L.,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+156854,156854,Lonicera reticulata Raf.,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+156855,156855,Lonicera ruprechtiana Regel,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+156856,156856,Lonicera sempervirens L.,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+156857,156857,Lonicera tatarica L.,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+156858,156858,Lonicera xylosteum L.,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+156859,156859,Lotus corniculatus L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156860,156860,Lotus krylovii Schischk. & Serg.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156861,156861,Lotus pedunculatus Cav.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156862,156862,Lotus tenuis Waldst. & Kit.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156863,156863,"Loxosceles laeta (Nicolet, 1849)",,Animalia,Arthropoda,Arachnida,Araneae,Sicariidae,SPECIES,ACCEPTED
+156864,156864,Lunaria annua L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156865,156865,Lupinus arboreus Sims,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156866,156866,Luzula campestris DC.,,Plantae,Tracheophyta,Liliopsida,Poales,Juncaceae,SPECIES,ACCEPTED
+156867,156867,Luzula luzuloides (Lam.) Dandy,,Plantae,Tracheophyta,Liliopsida,Poales,Juncaceae,SPECIES,ACCEPTED
+156868,156868,"Luzula pallidula B.Kirchn., 1990",,Plantae,Tracheophyta,Liliopsida,Poales,Juncaceae,SPECIES,ACCEPTED
+156869,156869,Lycium barbarum L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+156870,156870,Lycium chinense Mill.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+156871,156871,Lycopus europaeus L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156872,156872,"Lymantria dispar (Linnaeus, 1758)",,Animalia,Arthropoda,Insecta,Lepidoptera,Erebidae,SPECIES,ACCEPTED
+156873,156873,Lysimachia clethroides Duby,,Plantae,Tracheophyta,Magnoliopsida,Ericales,Primulaceae,SPECIES,ACCEPTED
+156874,156874,Lysimachia nummularia L.,,Plantae,Tracheophyta,Magnoliopsida,Ericales,Primulaceae,SPECIES,ACCEPTED
+156875,156875,Lysimachia punctata L.,,Plantae,Tracheophyta,Magnoliopsida,Ericales,Primulaceae,SPECIES,ACCEPTED
+156876,156876,Lysimachia vulgaris L.,,Plantae,Tracheophyta,Magnoliopsida,Ericales,Primulaceae,SPECIES,ACCEPTED
+156877,156877,Lythrum hyssopifolium Forssk.,,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Lythraceae,SPECIES,ACCEPTED
+156878,156878,Lythrum portula (L.) D.A.Webb,,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Lythraceae,SPECIES,ACCEPTED
+156879,156879,Lythrum salicaria L.,,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Lythraceae,SPECIES,ACCEPTED
+156880,156880,Macleaya cordata R.Br.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Papaveraceae,SPECIES,ACCEPTED
+156881,156881,Maclura pomifera (Raf.) C.K.Schneid.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Moraceae,SPECIES,ACCEPTED
+156882,156882,Madia sativa Molina,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156883,156883,"Maeotias marginata (Modeer, 1791)",,Animalia,Cnidaria,Hydrozoa,Limnomedusae,Olindiidae,SPECIES,ACCEPTED
+156884,156884,Malcolmia africana (L.) R.Br.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156885,156885,Malcolmia maritima (L.) W.T.Aiton,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156886,156886,Malus baccata (L.) Borkh.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156887,156887,Malus prunifolia (Willd.) Borkh.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156888,156888,Malus pumila Mill.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156889,156889,Malus sieboldii Rehder,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+156890,156890,Malva alcea L.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED
+156891,156891,Malva moschata L.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED
+156892,156892,Malva neglecta Wallr,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED
+156893,156893,Malva parviflora L.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED
+156894,156894,Malva rotundifolia L.,Malva pusilla Sm.,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,SYNONYM
+156895,156895,Malva sylvestris L.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED
+156896,156896,Malva verticillata L.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED
+156897,156897,Marrubium vulgare L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156898,156898,Marsilea quadrifolia L.,,Plantae,Tracheophyta,Polypodiopsida,Salviniales,Marsileaceae,SPECIES,ACCEPTED
+156899,156899,Matricaria chamomilla L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156900,156900,Matricaria discoidea DC.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+156901,156901,Matthiola longipetala (Vent.) DC.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156902,156902,Medicago arabica (L.) Huds.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156903,156903,Medicago laciniata Mill.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156904,156904,Medicago lupulina L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156905,156905,Medicago polymorpha L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156906,156906,Medicago sativa L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156907,156907,Melica altissima L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156908,156908,Melilotus alba Ledeb.,Melilotus albus Medik.,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,SYNONYM
+156909,156909,Melilotus altissimus Thuill.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156910,156910,Melilotus elegans Salzm. ex Ser.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156911,156911,Melilotus indicus (L.) All.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156912,156912,Melilotus officinalis Pall.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156913,156913,Melilotus wolgicus Poir.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156914,156914,Melissa officinalis L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156915,156915,"Membranipora membranacea (Linnaeus, 1767)",,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Membraniporidae,SPECIES,ACCEPTED
+156916,156916,Mentha aquatica L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156917,156917,Mentha pulegium L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156918,156918,Mentha spicata L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156919,156919,Mentha suaveolens Ehrh.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156920,156920,Mercurialis annua L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,SPECIES,ACCEPTED
+156921,156921,"Metacolpodes buchannani (Hope, 1831)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+156922,156922,"Metaltella simoni (Keyserling, 1878)",,Animalia,Arthropoda,Arachnida,Araneae,Desidae,SPECIES,ACCEPTED
+156923,156923,"Metellina segmentata (Clerck, 1757)",,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,SPECIES,ACCEPTED
+156924,156924,"Metynnis hypsauchen (MÃƒÂ¼ller & Troschel, 1844)",,Animalia,Chordata,Actinopterygii,Characiformes,Serrasalmidae,SPECIES,ACCEPTED
+156925,156925,"Micropterus dolomieu LacÃƒÂ©pÃƒÂ¨de, 1802",,Animalia,Chordata,Actinopterygii,Perciformes,Centrarchidae,SPECIES,ACCEPTED
+156926,156926,"Micropterus salmoides (LacepÃƒÂ¨de, 1802)",,Animalia,Chordata,Actinopterygii,Perciformes,Centrarchidae,SPECIES,ACCEPTED
+156927,156927,Microthlaspi perfoliatum (L.) F.K.Mey.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156928,156928,Miscanthus Ã—giganteus J.M.Greef & Deuter,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,DOUBTFUL
+156929,156929,Miscanthus sacchariflorus (Maxim.) Benth. & Hook.f. ex Franch.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156930,156930,Miscanthus sinensis Andersson,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156931,156931,Misopates orontium Raf.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+156932,156932,"Moenchia erecta (L.) G.Gaertn., B.Mey. & Scherb.",,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156933,156933,"Moenkhausia sanctaefilomenae (Steindachner, 1907)",,Animalia,Chordata,Actinopterygii,Characiformes,Characidae,SPECIES,ACCEPTED
+156934,156934,Molinia caerulea Moench,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156935,156935,Mollugo verticillata L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Molluginaceae,SPECIES,ACCEPTED
+156936,156936,Moluccella laevis L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156937,156937,"Morone americana (Gmelin, 1789)",,Animalia,Chordata,Actinopterygii,Perciformes,Moronidae,SPECIES,ACCEPTED
+156938,156938,Morus alba L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Moraceae,SPECIES,ACCEPTED
+156939,156939,"Mus musculus Linnaeus, 1758",,Animalia,Chordata,Mammalia,Rodentia,Muridae,SPECIES,ACCEPTED
+156940,156940,Muscari armeniacum H.J.Veitch,,Plantae,Tracheophyta,Liliopsida,Asparagales,Asparagaceae,SPECIES,ACCEPTED
+156941,156941,Muscari botryoides (L.) Mill.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Asparagaceae,SPECIES,ACCEPTED
+156942,156942,"Musculista senhousia (Benson, 1842)","Arcuatula senhousia (Benson, 1842)",Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,SPECIES,SYNONYM
+156943,156943,Mycelis muralis (L.) Dum.,Lactuca muralis (L.) E.Mey.,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,SYNONYM
+156944,156944,"Myodes glareolus (Schreber, 1780)",,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,SPECIES,ACCEPTED
+156945,156945,Myosotis arvensis Hill,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156946,156946,Myosotis discolor Pers.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156947,156947,Myosotis scorpioides L.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156948,156948,Myosotis stricta Link ex Roem. & Schult.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156949,156949,Myosotis sylvatica Hoffm.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156950,156950,Myosoton aquaticum Moench,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+156951,156951,Myriophyllum spicatum L.,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Haloragaceae,SPECIES,ACCEPTED
+156952,156952,"Myrmica rubra (Linnaeus, 1758)",,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,SPECIES,ACCEPTED
+156953,156953,Myrrhis odorata Scop.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+156954,156954,"Mytilus galloprovincialis Lamarck, 1819",,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,SPECIES,ACCEPTED
+156955,156955,Najas minor All.,,Plantae,Tracheophyta,Liliopsida,Alismatales,Hydrocharitaceae,SPECIES,ACCEPTED
+156956,156956,Narcissus poeticus L.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Amaryllidaceae,SPECIES,ACCEPTED
+156957,156957,Narcissus pseudonarcissus L.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Amaryllidaceae,SPECIES,ACCEPTED
+156958,156958,Nardus stricta L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+156959,156959,"Nassarius fraterculus (Dunker, 1860)",,Animalia,Mollusca,Gastropoda,Neogastropoda,Nassariidae,SPECIES,ACCEPTED
+156960,156960,Nelumbo nucifera Gaertn.,,Plantae,Tracheophyta,Magnoliopsida,Proteales,Nelumbonaceae,SPECIES,ACCEPTED
+156961,156961,Nemesia strumosa Benth.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Scrophulariaceae,SPECIES,ACCEPTED
+156962,156962,Neodiprion sertifer (Geoffroy),,Animalia,Arthropoda,Insecta,Hymenoptera,Diprionidae,SPECIES,ACCEPTED
+156963,156963,"Neogobius melanostomus (Pallas, 1814)",,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,SPECIES,ACCEPTED
+156964,156964,"Neottiura bimaculata (Linnaeus, 1767)",,Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,SPECIES,ACCEPTED
+156965,156965,Nepeta camphorata Boiss. & Heldr.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156966,156966,Nepeta cataria L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156967,156967,Nepeta grandiflora M.Bieb.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+156968,156968,"Neriene montana (Clerck, 1757)","Araneus thaddeus (Hentz, 1847)",Animalia,Arthropoda,Arachnida,Araneae,Araneidae,SPECIES,SYNONYM
+156969,156969,Neslia paniculata (L.) Desv.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+156970,156970,"Nesticus cellulanus (Clerck, 1757)",,Animalia,Arthropoda,Arachnida,Araneae,Nesticidae,SPECIES,ACCEPTED
+156971,156971,Nicandra physalodes (L.) Gaertn.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+156972,156972,Nicotiana alata Link & Otto,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+156973,156973,Nicotiana longiflora Cav.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+156974,156974,Nicotiana rustica L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+156975,156975,Nicotiana tabacum L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+156976,156976,Nigella damascena L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+156977,156977,Nonea vesicaria Rchb.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156978,156978,"Notiophilus biguttatus (Fabricius, 1779)",,Animalia,Arthropoda,Insecta,Coleoptera,Brachyceridae,SPECIES,ACCEPTED
+156979,156979,"Notiophilus palustris Sturm, 1826",,Animalia,Arthropoda,Insecta,Coleoptera,Brachyceridae,SPECIES,ACCEPTED
+156980,156980,"Notropis buchanani Meek, 1896",,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,SPECIES,ACCEPTED
+156981,156981,"Notropis texanus (Girard, 1856)",,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,SPECIES,ACCEPTED
+156982,156982,"Noturus insignis (Richardson, 1836)",,Animalia,Chordata,Actinopterygii,Siluriformes,Ictaluridae,SPECIES,ACCEPTED
+156983,156983,"Noturus stigmosus Taylor, 1969",,Animalia,Chordata,Actinopterygii,Siluriformes,Ictaluridae,SPECIES,ACCEPTED
+156984,156984,Nymphaea alba L.,,Plantae,Tracheophyta,Magnoliopsida,Nymphaeales,Nymphaeaceae,SPECIES,ACCEPTED
+156985,156985,Nymphaea mexicana Zucc.,,Plantae,Tracheophyta,Magnoliopsida,Nymphaeales,Nymphaeaceae,SPECIES,ACCEPTED
+156986,156986,Nymphoides peltata (S.G.Gmel.) Kuntze,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Menyanthaceae,SPECIES,ACCEPTED
+156987,156987,"Ochlerotatus japonicus (Theobald, 1901)","Aedes japonicus (Theobald, 1901)",Animalia,Arthropoda,Insecta,Diptera,Culicidae,SPECIES,SYNONYM
+156988,156988,Odontites vernus Dumort.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Orobanchaceae,SPECIES,ACCEPTED
+156989,156989,"Oecobius navus Blackwall, 1859",,Animalia,Arthropoda,Arachnida,Araneae,Oecobiidae,SPECIES,ACCEPTED
+156990,156990,Oenothera glazioviana Micheli,,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Onagraceae,SPECIES,ACCEPTED
+156991,156991,Oenothera grandiflora L'HÃƒÂ©r.,,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Onagraceae,SPECIES,ACCEPTED
+156992,156992,Oenothera laciniata Hill,,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Onagraceae,SPECIES,ACCEPTED
+156993,156993,Omphalodes linifolia (L.) Moench,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156994,156994,Omphalodes verna Moench,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+156995,156995,"Oncorhynchus aguabonita (Jordan, 1892)",,Animalia,Chordata,Actinopterygii,Salmoniformes,Salmonidae,SPECIES,ACCEPTED
+156996,156996,Oncorhynchus masou masou,"Oncorhynchus masou (Brevoort, 1856)",Animalia,Chordata,Actinopterygii,Salmoniformes,Salmonidae,SUBSPECIES,SYNONYM
+156997,156997,"Oncorhynchus mykiss (Walbaum, 1792)",,Animalia,Chordata,Actinopterygii,Salmoniformes,Salmonidae,SPECIES,ACCEPTED
+156998,156998,Onobrychis viciifolia Scop.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+156999,156999,Ononis arvensis Retz.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,DOUBTFUL
+157000,157000,Onopordum acanthium L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157001,157001,"Operophtera brumata (Linnaeus, 1758)",,Animalia,Arthropoda,Insecta,Lepidoptera,Geometridae,SPECIES,ACCEPTED
+157002,157002,"Ophonus puncticeps Stephens, 1828",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+157003,157003,"Ophonus rufibarbis (Fabricius, 1792)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+157004,157004,"Orconectes obscurus (Hagen, 1870)",,Animalia,Arthropoda,Malacostraca,Decapoda,Cambaridae,SPECIES,ACCEPTED
+157005,157005,"Orconectes rusticus (Girard, 1852)",,Animalia,Arthropoda,Malacostraca,Decapoda,Cambaridae,SPECIES,ACCEPTED
+157006,157006,"Orgyia antiqua (Linnaeus, 1758)",,Animalia,Arthropoda,Insecta,Lepidoptera,Erebidae,SPECIES,ACCEPTED
+157007,157007,Origanum vulgare L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+157008,157008,Ornithogalum nutans L.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Asparagaceae,SPECIES,ACCEPTED
+157009,157009,Ornithogalum umbellatum L.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Asparagaceae,SPECIES,ACCEPTED
+157010,157010,"Orthotrichum stramineum Hornschuch, 1827",,Plantae,Bryophyta,Bryopsida,Orthotrichales,Orthotrichaceae,SPECIES,ACCEPTED
+157011,157011,"Orthotrichum tenellum Bruch ex Bridel, 1827",,Plantae,Bryophyta,Bryopsida,Orthotrichales,Orthotrichaceae,SPECIES,ACCEPTED
+157012,157012,"Oryctolagus cuniculus (Linnaeus, 1758)",,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,SPECIES,ACCEPTED
+157013,157013,"Osmerus mordax (Mitchill, 1814)",,Animalia,Chordata,Actinopterygii,Osmeriformes,Osmeridae,SPECIES,ACCEPTED
+157014,157014,"Ostearius melanopygius (O.Pickard-Cambridge, 1880)",,Animalia,Arthropoda,Arachnida,Araneae,Linyphiidae,SPECIES,ACCEPTED
+157015,157015,"Ostrea edulis Linnaeus, 1758",,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,SPECIES,ACCEPTED
+157016,157016,"Ovatella myosotis (Draparnaud, 1801)","Myosotella myosotis (Draparnaud, 1801)",Animalia,Mollusca,Gastropoda,Ellobiida,Ellobiidae,SPECIES,SYNONYM
+157017,157017,Oxalis corniculata L.,,Plantae,Tracheophyta,Magnoliopsida,Oxalidales,Oxalidaceae,SPECIES,ACCEPTED
+157018,157018,"Ozyptila praticola (C.L.Koch, 1837)",,Animalia,Arthropoda,Arachnida,Araneae,Thomisidae,SPECIES,ACCEPTED
+157019,157019,Pachysandra terminalis Siebold & Zucc.,,Plantae,Tracheophyta,Magnoliopsida,Buxales,Buxaceae,SPECIES,ACCEPTED
+157020,157020,Paeonia lactiflora Pall.,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Paeoniaceae,SPECIES,ACCEPTED
+157021,157021,Paeonia officinalis L.,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Paeoniaceae,SPECIES,ACCEPTED
+157022,157022,Panicum miliaceum L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157023,157023,Papaver argemone L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Papaveraceae,SPECIES,ACCEPTED
+157024,157024,Papaver croceum Ladeb.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Papaveraceae,SPECIES,ACCEPTED
+157025,157025,Papaver dubium L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Papaveraceae,SPECIES,ACCEPTED
+157026,157026,Papaver orientale L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Papaveraceae,SPECIES,ACCEPTED
+157027,157027,Papaver rhoeas L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Papaveraceae,SPECIES,ACCEPTED
+157028,157028,Papaver somniferum L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Papaveraceae,SPECIES,ACCEPTED
+157029,157029,"Paracheirodon innesi (Myers, 1936)",,Animalia,Chordata,Actinopterygii,Characiformes,Characidae,SPECIES,ACCEPTED
+157030,157030,"Paranchus albipes (Fabricius, 1796)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+157031,157031,Parapholis incurva (L.) C.E.Hubb.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157032,157032,"Paraphytomyza populicola (Walker, 1853)",,Animalia,Arthropoda,Insecta,Diptera,Agromyzidae,SPECIES,ACCEPTED
+157033,157033,Parentucellia viscosa (L.) Caruel,Bellardia viscosa Fisch. & C.A.Mey.,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Orobanchaceae,SPECIES,SYNONYM
+157034,157034,Parthenocissus tricuspidata Planch.,,Plantae,Tracheophyta,Magnoliopsida,Vitales,Vitaceae,SPECIES,ACCEPTED
+157035,157035,Paspalum racemosum Lam.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157036,157036,"Passer domesticus (Linnaeus, 1758)",,Animalia,Chordata,Aves,Passeriformes,Passeridae,SPECIES,ACCEPTED
+157037,157037,"Passer montanus (Linnaeus, 1758)",,Animalia,Chordata,Aves,Passeriformes,Passeridae,SPECIES,ACCEPTED
+157038,157038,Pastinaca sativa L.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+157039,157039,"Patinopecten yessoensis (Jay, 1857)",Imperatoria ostruthium L.,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,SPECIES,SYNONYM
+157040,157040,Pedicularis sylvatica L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Orobanchaceae,SPECIES,ACCEPTED
+157041,157041,Penstemon calycosus Small,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157042,157042,Penstemon pallidus Small,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157043,157043,Penstemon tubiflorus Nutt.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157044,157044,Pentaglottis sempervirens (L.) L.H.Bailey,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+157045,157045,"Perca flavescens (Mitchill, 1814)",,Animalia,Chordata,Actinopterygii,Perciformes,Percidae,SPECIES,ACCEPTED
+157046,157046,"Perdix perdix (Linnaeus, 1758)",,Animalia,Chordata,Aves,Galliformes,Phasianidae,SPECIES,ACCEPTED
+157047,157047,"Perigona nigriceps (Dejean, 1831)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+157048,157048,Perilla frutescens Britton.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+157049,157049,"Perna perna (Linnaeus, 1758)",,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,SPECIES,ACCEPTED
+157050,157050,Persicaria hydropiper (L.) Spach,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157051,157051,Persicaria longiseta (Bruijn) Kitag.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157052,157052,Persicaria maculosa Gray,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157053,157053,Persicaria minor (Huds.) Opiz,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157054,157054,Persicaria nepalensis (Meisn.) H.Gross,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157055,157055,Persicaria orientalis (L.) Spach,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157056,157056,Persicaria wallichii W.Greuter & Burdet,Koenigia polystachya (Wall. ex Meisn.) T.M.Schust. & Reveal,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,SYNONYM
+157057,157057,Petasites japonicus (Siebold & Zucc.) Maxim.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157058,157058,"Petromyzon marinus Linnaeus, 1758",,Animalia,Chordata,Cephalaspidomorphi,Petromyzontiformes,Petromyzontidae,SPECIES,ACCEPTED
+157059,157059,Petrorhagia prolifera (L.) P.W.Ball & Heywood,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157060,157060,Petrorhagia saxifraga Link,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157061,157061,Petroselinum crispum (Mill.) Fuss,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+157062,157062,Peucedanum ostruthium (L.) Koch,Imperatoria ostruthium L.,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,SYNONYM
+157063,157063,Phacelia campanularia A.Gray,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Hydrophyllaceae,SPECIES,ACCEPTED
+157064,157064,Phacelia tanacetifolia Benth.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Hydrophyllaceae,SPECIES,ACCEPTED
+157065,157065,Phacelia thermalis Greene,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Hydrophyllaceae,SPECIES,ACCEPTED
+157066,157066,Phalaris canariensis L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157067,157067,Phalaris minor Retz.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157068,157068,Phaseolus coccineus L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157069,157069,Phaseolus lunatus L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157070,157070,Phaseolus vulgaris L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157071,157071,"Phasianus colchicus Linnaeus, 1758",,Animalia,Chordata,Aves,Galliformes,Phasianidae,SPECIES,ACCEPTED
+157072,157072,Phellodendron amurense Rupr.,,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Rutaceae,SPECIES,ACCEPTED
+157073,157073,Philadelphus coronarius L.,,Plantae,Tracheophyta,Magnoliopsida,Cornales,Hydrangeaceae,SPECIES,ACCEPTED
+157074,157074,Philadelphus inodorus L.,,Plantae,Tracheophyta,Magnoliopsida,Cornales,Hydrangeaceae,SPECIES,ACCEPTED
+157075,157075,Philadelphus pubescens Loisel.,,Plantae,Tracheophyta,Magnoliopsida,Cornales,Hydrangeaceae,SPECIES,ACCEPTED
+157076,157076,"Philodromus dispar Walckenaer, 1826",,Animalia,Arthropoda,Arachnida,Araneae,Philodromidae,SPECIES,ACCEPTED
+157077,157077,"Philorhizus melanocephalus (Dejean, 1825)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+157078,157078,Phleum pratense L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157079,157079,Phlox drummondii Hook.,,Plantae,Tracheophyta,Magnoliopsida,Ericales,Polemoniaceae,SPECIES,ACCEPTED
+157080,157080,Phlox maculata L.,,Plantae,Tracheophyta,Magnoliopsida,Ericales,Polemoniaceae,SPECIES,ACCEPTED
+157081,157081,Phlox paniculata L.,,Plantae,Tracheophyta,Magnoliopsida,Ericales,Polemoniaceae,SPECIES,ACCEPTED
+157082,157082,"Pholcus phalangioides (Fuesslin, 1775)",,Animalia,Arthropoda,Arachnida,Araneae,Pholcidae,SPECIES,ACCEPTED
+157083,157083,Phragmites australis (Cav.) Steud.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157084,157084,Physalis alkekengi Lour.,Physalis lagascae Roem. & Schult.,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+157085,157085,Physalis grisea (Waterf.) Mahinda MartÃƒÂ­nez,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+157086,157086,Physalis peruviana L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+157087,157087,Physalis philadelphica Lam.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+157088,157088,Physalis pubescens L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+157089,157089,Picea abies (L.) H.Karst.,,Plantae,Tracheophyta,Pinopsida,Pinales,Pinaceae,SPECIES,ACCEPTED
+157090,157090,Picea pungens Engelm.,,Plantae,Tracheophyta,Pinopsida,Pinales,Pinaceae,SPECIES,ACCEPTED
+157091,157091,Picris hieracioides L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157092,157092,"Pieris rapae (Linnaeus, 1758)",,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,SPECIES,ACCEPTED
+157093,157093,Pimpinella saxifraga L.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+157094,157094,"Pinctada margaritifera (Linnaeus, 1758)",,Animalia,Mollusca,Bivalvia,Ostreida,Pteriidae,SPECIES,ACCEPTED
+157095,157095,Pinellia ternata (Thunb. ex Murray) T.Makino,,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,SPECIES,ACCEPTED
+157096,157096,Pinus mugo Turra,,Plantae,Tracheophyta,Pinopsida,Pinales,Pinaceae,SPECIES,ACCEPTED
+157097,157097,Pinus nigra J.F.Arnold,,Plantae,Tracheophyta,Pinopsida,Pinales,Pinaceae,SPECIES,ACCEPTED
+157098,157098,Pinus sylvestris L.,,Plantae,Tracheophyta,Pinopsida,Pinales,Pinaceae,SPECIES,ACCEPTED
+157099,157099,Pinus virginiana Mill.,,Plantae,Tracheophyta,Pinopsida,Pinales,Pinaceae,SPECIES,ACCEPTED
+157100,157100,Pisum sativum L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157101,157101,Pityopsis falcata Nutt.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157102,157102,Plantago aristata Michx.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157103,157103,Plantago coronopus L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157104,157104,Plantago lanceolata L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157105,157105,Plantago media L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157106,157106,Plantago psyllium Herb.Aegypt.,Plantago psyllium Herb.Aegypt. ex C.Presl,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157107,157107,Plantago virginica L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157108,157108,Platanus hybrida Brot.,,Plantae,Tracheophyta,Magnoliopsida,Proteales,Platanaceae,SPECIES,ACCEPTED
+157109,157109,"Platichthys flesus (Linnaeus, 1758)",,Animalia,Chordata,Actinopterygii,Pleuronectiformes,Pleuronectidae,SPECIES,ACCEPTED
+157110,157110,Pluchea odorata (L.) Cass.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157111,157111,Poa annua L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157112,157112,Poa bulbosa L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157113,157113,Poa chaixii Vill.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157114,157114,Poa compressa L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157115,157115,Poa infirma Kunth,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157116,157116,Poa nemoralis L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157117,157117,Poa trivialis L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157118,157118,"Podarcis muralis (Laurenti, 1768)",,Animalia,Chordata,Reptilia,Squamata,Lacertidae,SPECIES,ACCEPTED
+157119,157119,"Poecilia latipinna (Lesueur, 1821)",,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,SPECIES,ACCEPTED
+157120,157120,"Poecilia reticulata Peters, 1859",,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,SPECIES,ACCEPTED
+157121,157121,"Poecilia sphenops Valenciennes, 1846",,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,SPECIES,ACCEPTED
+157122,157122,Polemonium caeruleum L.,,Plantae,Tracheophyta,Magnoliopsida,Ericales,Polemoniaceae,SPECIES,ACCEPTED
+157123,157123,Polemonium reptans L.,,Plantae,Tracheophyta,Magnoliopsida,Ericales,Polemoniaceae,SPECIES,ACCEPTED
+157124,157124,Polycarpon tetraphyllum L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157125,157125,Polycnemum arvense L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+157126,157126,Polycnemum majus A.Braun,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+157127,157127,Polygonatum multiflorum All.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Asparagaceae,SPECIES,ACCEPTED
+157128,157128,Polygonum patulum M.Bieb.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157129,157129,Polypogon monspeliensis Desf.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157130,157130,"Pomoxis nigromaculatus (Lesueur, 1829)",,Animalia,Chordata,Actinopterygii,Perciformes,Centrarchidae,SPECIES,ACCEPTED
+157131,157131,Populus alba L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Salicaceae,SPECIES,ACCEPTED
+157132,157132,Populus nigra L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Salicaceae,SPECIES,ACCEPTED
+157133,157133,"Porotachys bisulcatus (Nicolai, 1822)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+157134,157134,Portulaca grandiflora Hook.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Portulacaceae,SPECIES,ACCEPTED
+157135,157135,Portulaca oleracea L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Portulacaceae,SPECIES,ACCEPTED
+157136,157136,Potamogeton crispus L.,,Plantae,Tracheophyta,Liliopsida,Alismatales,Potamogetonaceae,SPECIES,ACCEPTED
+157137,157137,Potentilla anglica Laicharding,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157138,157138,Potentilla argentea L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157139,157139,Potentilla atrosanguinea Raf.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,DOUBTFUL
+157140,157140,Potentilla erecta (L.) RÃƒÂ¤uschel,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157141,157141,Potentilla inclinata Vill.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157142,157142,Potentilla intermedia L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157143,157143,Potentilla recta L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157144,157144,Potentilla reptans L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157145,157145,Potentilla sterilis Garcke,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157146,157146,Potentilla thuringiaca Bernh. ex Link,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157147,157147,Primula veris L.,,Plantae,Tracheophyta,Magnoliopsida,Ericales,Primulaceae,SPECIES,ACCEPTED
+157148,157148,Pristiphora erichsonii (Hartig),,Animalia,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,SPECIES,ACCEPTED
+157149,157149,Pristiphora geniculata (Hartig),,Animalia,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,SPECIES,ACCEPTED
+157150,157150,Proboscidea louisianica (Mill.) Thell.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Martyniaceae,SPECIES,ACCEPTED
+157151,157151,"Profenusa thomsoni (Konow, 1886)",,Animalia,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,SPECIES,ACCEPTED
+157152,157152,"Propylea quatuordecimpunctata (Linnaeus, 1758)","Propylaea quatuordecimpunctata (Linnaeus, 1758)",Animalia,Arthropoda,Insecta,Coleoptera,Coccinellidae,SPECIES,SYNONYM
+157153,157153,"Proterorhinus marmoratus (Pallas, 1814)",,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,SPECIES,ACCEPTED
+157154,157154,"Proterorhinus semilunaris (Heckel, 1837)",,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,SPECIES,ACCEPTED
+157155,157155,Prunus armeniaca L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157156,157156,Prunus avium (L.) L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157157,157157,Prunus cerasifera Ehrh.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157158,157158,Prunus cerasus Scop.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,DOUBTFUL
+157159,157159,Prunus domestica L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157160,157160,Prunus glandulosa C.P.Thunb. ex A.Murray,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157161,157161,Prunus laurocerasus L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157162,157162,Prunus mahaleb L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157163,157163,Prunus padus L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157164,157164,Prunus persica Stokes,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157165,157165,Prunus spinosa L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157166,157166,Prunus tomentosa C.P.Thunb. ex A.Murray,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157167,157167,Psathyrostachys juncea (Fisch.) Nevski,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157168,157168,Pseudognaphalium stramineum (Kunth) Anderb.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157169,157169,"Pseudoscleropodium purum Fleischer, 1925",,Plantae,Bryophyta,Bryopsida,Hypnales,Entodontaceae,SPECIES,ACCEPTED
+157170,157170,"Pterostichus melanarius (Illiger, 1798)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+157171,157171,"Pterostichus strenuus (Panzer, 1796)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+157172,157172,"Pterostichus vernalis (Panzer, 1796)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+157173,157173,Puccinellia fasciculata E.P.Bicknell,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157174,157174,Pueraria montana (Lour.) Merr.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157175,157175,Pulmonaria officinalis L.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+157176,157176,Pulmonaria saccharata Mill.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+157177,157177,"Puntius conchonius (Hamilton, 1822)","Pethia conchonius (Hamilton, 1822)",Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,SPECIES,SYNONYM
+157178,157178,"Puntius tetrazona (Bleeker, 1855)","Puntigrus tetrazona (Bleeker, 1855)",Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,SPECIES,SYNONYM
+157179,157179,"Pygocentrus nattereri Kner, 1858",,Animalia,Chordata,Actinopterygii,Characiformes,Serrasalmidae,SPECIES,ACCEPTED
+157180,157180,"Pylodictis olivaris (Rafinesque, 1818)",,Animalia,Chordata,Actinopterygii,Siluriformes,Ictaluridae,SPECIES,ACCEPTED
+157181,157181,Pyracantha coccinea M.Roem.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157182,157182,Pyrus communis L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157183,157183,Quercus robur L.,,Plantae,Tracheophyta,Magnoliopsida,Fagales,Fagaceae,SPECIES,ACCEPTED
+157184,157184,Radiola linoides Roth,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Linaceae,SPECIES,ACCEPTED
+157185,157185,Ranunculus acris L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+157186,157186,Ranunculus bulbosus L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+157187,157187,Ranunculus ficaria Walter,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,DOUBTFUL
+157188,157188,Ranunculus hederaceus L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+157189,157189,Ranunculus repens L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+157190,157190,Ranunculus sardous Crantz,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+157191,157191,Ranunculus testiculatus Crantz,Ceratocephala orthoceras DC.,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,SYNONYM
+157192,157192,Raphanus raphanistrum L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+157193,157193,Raphanus sativus L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+157194,157194,Rapistrum perenne All.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+157195,157195,Rapistrum rugosum (L.) All.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+157196,157196,"Rattus norvegicus (Berkenhout, 1769)",,Animalia,Chordata,Mammalia,Rodentia,Muridae,SPECIES,ACCEPTED
+157197,157197,"Rattus rattus (Linnaeus, 1758)",,Animalia,Chordata,Mammalia,Rodentia,Muridae,SPECIES,ACCEPTED
+157198,157198,Reseda alba L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Resedaceae,SPECIES,ACCEPTED
+157199,157199,Reseda lutea L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Resedaceae,SPECIES,ACCEPTED
+157200,157200,Reseda luteola L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Resedaceae,SPECIES,ACCEPTED
+157201,157201,Rhamnus cathartica L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rhamnaceae,SPECIES,ACCEPTED
+157202,157202,Rhamnus davurica Pall.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rhamnaceae,SPECIES,ACCEPTED
+157203,157203,Rheum rhabarbarum L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157204,157204,"Rhinella marina (Linnaeus, 1758)",,Animalia,Chordata,Amphibia,Anura,Bufonidae,SPECIES,ACCEPTED
+157205,157205,Rhodotypos scandens Makino,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157206,157206,Rhyacionia buoliana subsp. Buoliana,,Animalia,Arthropoda,Insecta,Lepidoptera,Tortricidae,SPECIES,ACCEPTED
+157207,157207,Ribes alpinum L.,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Grossulariaceae,SPECIES,ACCEPTED
+157208,157208,Ribes diacanthum Pall.,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Grossulariaceae,SPECIES,ACCEPTED
+157209,157209,Ribes missouriense Nutt. ex Torr. & A.Gray,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Grossulariaceae,SPECIES,ACCEPTED
+157210,157210,Ribes nigrum L.,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Grossulariaceae,SPECIES,ACCEPTED
+157211,157211,Ribes rubrum L.,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Grossulariaceae,SPECIES,ACCEPTED
+157212,157212,Ribes uva-crispa L.,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Grossulariaceae,SPECIES,ACCEPTED
+157213,157213,Robinia hispida L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157214,157214,Robinia pseudoacacia L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157215,157215,Robinia viscosa Vent.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157216,157216,Rorippa amphibia Besser,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+157217,157217,Rorippa austriaca (Crantz) Besser,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+157218,157218,Rorippa microphylla (Boenn. ex Rchb.) Hyl. ex A.LÃƒÂ¶ve & D.LÃƒÂ¶ve,Nasturtium microphyllum (Boenn.) Airy-Shaw,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,SYNONYM
+157219,157219,Rorippa nasturtium-aquaticum Schinz & Thell.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,DOUBTFUL
+157220,157220,Rorippa sylvestris Besser,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+157221,157221,Rosa canina L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157222,157222,Rosa centifolia L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157223,157223,Rosa cinnamomea Sm.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,DOUBTFUL
+157224,157224,Rosa dumetorum Thuill.,Rosa corymbifera Borkh.,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,SYNONYM
+157225,157225,Rosa eglanteria Gilg,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,DOUBTFUL
+157226,157226,Rosa gallica L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157227,157227,Rosa majalis Herrm.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157228,157228,Rosa micrantha Borrer ex Sm.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157229,157229,Rosa multiflora Thunb.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157230,157230,Rosa rubrifolia R.Br.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,DOUBTFUL
+157231,157231,Rosa rugosa Thunb.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157232,157232,Rosa spinosissima L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157233,157233,Rosa tomentosa Sm.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157234,157234,Rosa xanthina Lindl.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157235,157235,Rubus bifrons Vest ex Tratt.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157236,157236,Rubus caesius L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157237,157237,Rubus discolor Syme,Rubus ulmifolius Schott,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,SYNONYM
+157238,157238,Rubus illecebrosus Focke,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157239,157239,Rubus laciniatus Willd.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157240,157240,Rudbeckia grandiflora (Sweet) C.C.Gmel. ex DC.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157241,157241,Rudbeckia triloba L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157242,157242,"Ruditapes philippinarum (Adams & Reeve, 1850)",,Animalia,Mollusca,Bivalvia,Venerida,Veneridae,SPECIES,ACCEPTED
+157243,157243,Rumex acetosella L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157244,157244,Rumex alpinus L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157245,157245,Rumex confertus Willd.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157246,157246,Rumex conglomeratus Murray,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157247,157247,Rumex crispus L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157248,157248,Rumex dentatus L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157249,157249,Rumex longifolius DC.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157250,157250,Rumex obtusifolius L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157251,157251,Rumex patientia L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157252,157252,Rumex pseudonatronatus (BorbÃƒÂ¡s) Murb.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157253,157253,Rumex sanguineus L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157254,157254,Rumex stenophyllus Ledeb.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157255,157255,Rumex thyrsiflorus Fingerh.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,SPECIES,ACCEPTED
+157256,157256,Ruta graveolens L.,,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Rutaceae,SPECIES,ACCEPTED
+157257,157257,Sagina apetala Ard.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157258,157258,Sagina japonica (Sw. ex Steud.) Ohwi,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157259,157259,Salix alba Kern.,Salix hexandra Ehrh.,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Salicaceae,SPECIES,SYNONYM
+157260,157260,Salix atrocinerea Brot.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Salicaceae,SPECIES,ACCEPTED
+157261,157261,Salix caprea L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Salicaceae,SPECIES,ACCEPTED
+157262,157262,Salix cinerea L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Salicaceae,SPECIES,ACCEPTED
+157263,157263,Salix daphnoides Vill.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Salicaceae,SPECIES,ACCEPTED
+157264,157264,Salix elaeagnos Scop.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Salicaceae,SPECIES,ACCEPTED
+157265,157265,Salix fragilis L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Salicaceae,SPECIES,ACCEPTED
+157266,157266,Salix myrsinifolia Salisb.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Salicaceae,SPECIES,ACCEPTED
+157267,157267,Salix pentandra L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Salicaceae,SPECIES,ACCEPTED
+157268,157268,Salix purpurea L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Salicaceae,SPECIES,ACCEPTED
+157269,157269,Salix triandra L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Salicaceae,SPECIES,ACCEPTED
+157270,157270,Salix viminalis L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Salicaceae,SPECIES,ACCEPTED
+157271,157271,Salmo trutta f. trutta,,Animalia,Chordata,Actinopterygii,Salmoniformes,Salmonidae,FORM,ACCEPTED
+157272,157272,"Salmo trutta macrostigma (DumÃƒÂ©ril, 1858)","Salmo macrostigma (DumÃ©ril, 1858)",Animalia,Chordata,Actinopterygii,Salmoniformes,Salmonidae,SUBSPECIES,SYNONYM
+157273,157273,Salsola collina Pall.,Kali collina (Pall.) Akhani & Roalson,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,SYNONYM
+157274,157274,Salsola kali L.,Kali turgida (Dumort.) Gutermann,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,SYNONYM
+157275,157275,Salsola tragus L.,Kali tragus subsp. Tragus,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,SYNONYM
+157276,157276,"Salticus scenicus (Clerck, 1757)",,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,SPECIES,ACCEPTED
+157277,157277,"Salvelinus fontinalis (Mitchill, 1814)",,Animalia,Chordata,Actinopterygii,Salmoniformes,Salmonidae,SPECIES,ACCEPTED
+157278,157278,Salvia nemorosa L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+157279,157279,Salvia officinalis L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+157280,157280,Salvia pratensis L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+157281,157281,Salvia reflexa Hornem.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+157282,157282,Salvia sclarea L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+157283,157283,Salvia verticillata L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+157284,157284,Sambucus ebulus L.,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Adoxaceae,SPECIES,ACCEPTED
+157285,157285,"Samia cynthia (Drury, 1773)",,Animalia,Arthropoda,Insecta,Lepidoptera,Saturniidae,SPECIES,ACCEPTED
+157286,157286,Sanguisorba minor Scop.,Poterium sanguisorba subsp. Sanguisorba,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,SYNONYM
+157287,157287,Saponaria ocymoides L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157288,157288,Saponaria officinalis L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157289,157289,Satureja hortensis L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+157290,157290,Saxifraga tridactylites L.,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Saxifragaceae,SPECIES,ACCEPTED
+157291,157291,Scandix pecten-veneris L.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+157292,157292,"Scardinius erythrophthalmus (Linnaeus, 1758)",,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,SPECIES,ACCEPTED
+157293,157293,Schedonorus arundinaceus Roem. & Schult.,Scolochloa festucacea Link,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,SYNONYM
+157294,157294,Schedonorus giganteus (L.) Holub,Lolium giganteum (L.) Darbysh.,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,SYNONYM
+157295,157295,Schedonorus pratensis (Huds.) P.Beauv.,Festuca rubra L.,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,SYNONYM
+157296,157296,"Schizoporella unicornis (Johnston, 1844)",,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Schizoporellidae,SPECIES,ACCEPTED
+157297,157297,Scilla siberica Andrews,,Plantae,Tracheophyta,Liliopsida,Asparagales,Asparagaceae,SPECIES,ACCEPTED
+157298,157298,Scleranthus annuus L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157299,157299,Scleranthus perennis L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157300,157300,Sclerochloa dura P.Beauv.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157301,157301,"Scolytus multistriatus subsp. multistriatus (Marsham, 1802)","Ips multistriatus Marsham, 1802",Animalia,Arthropoda,Insecta,Coleoptera,Curculionidae,SPECIES,SYNONYM
+157302,157302,Scopolia carniolica Jacq.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+157303,157303,"Scotophaeus blackwalli (Thorell, 1871)",,Animalia,Arthropoda,Arachnida,Araneae,Gnaphosidae,SPECIES,ACCEPTED
+157304,157304,Scrophularia nodosa L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Scrophulariaceae,SPECIES,ACCEPTED
+157305,157305,"Scymnus impexus Mulsant, 1850",,Animalia,Arthropoda,Insecta,Coleoptera,Coccinellidae,SPECIES,ACCEPTED
+157306,157306,"Scytodes fusca Walckenaer, 1837",,Animalia,Arthropoda,Arachnida,Araneae,Scytodidae,SPECIES,ACCEPTED
+157307,157307,"Scytodes thoracica (Latreille, 1802)",,Animalia,Arthropoda,Arachnida,Araneae,Scytodidae,SPECIES,ACCEPTED
+157308,157308,Secale cereale L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157309,157309,Sedum acre L.,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Crassulaceae,SPECIES,ACCEPTED
+157310,157310,Sedum aizoon (Koch ex SchÃ¶nl.) H.Ohba,Phedimus aizoon (L.) 't Hart,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Crassulaceae,SPECIES,ACCEPTED
+157311,157311,Sedum album L.,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Crassulaceae,SPECIES,ACCEPTED
+157312,157312,Sedum hispanicum L.,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Crassulaceae,SPECIES,ACCEPTED
+157313,157313,Sedum hybridum L.,Phedimus middendorfianus (Maxim.) 't Hart,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Crassulaceae,SPECIES,ACCEPTED
+157314,157314,Sedum ochroleucum Chaix,Petrosedum ochroleucum subsp. Ochroleucum,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Crassulaceae,SPECIES,SYNONYM
+157315,157315,Sedum reflexum Friv. ex Nyman,Petrosedum rupestre subsp. Rupestre,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Crassulaceae,SPECIES,ACCEPTED
+157316,157316,Sedum sarmentosum Bunge,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Crassulaceae,SPECIES,ACCEPTED
+157317,157317,Sedum sexangulare L.,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Crassulaceae,SPECIES,ACCEPTED
+157318,157318,Sedum spurium Bieb.,Phedimus spurius (M.Bieb.) 't Hart,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Crassulaceae,SPECIES,SYNONYM
+157319,157319,Sedum ternatum Michx.,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Crassulaceae,SPECIES,ACCEPTED
+157320,157320,Sempervivum tectorum L.,,Plantae,Tracheophyta,Magnoliopsida,Saxifragales,Crassulaceae,SPECIES,ACCEPTED
+157321,157321,Senecio jacobaea Loscos & Pardo,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157322,157322,Senecio squalidus L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157323,157323,Senecio sylvaticus L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157324,157324,Senecio viscosus L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157325,157325,Senecio vulgaris L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157326,157326,Sesbania herbacea (Mill.) McVaugh,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157327,157327,Setaria faberi R.A.W.Herrm.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157328,157328,Setaria italica P.Beauv.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157329,157329,Setaria pumila (Poir.) Roem. & Schult.,Setaria helvola Roem. & Schult.,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,SYNONYM
+157330,157330,Setaria verticillata (L.) P.Beauv.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157331,157331,Setaria verticilliformis Dumort.,Setaria verticillata (L.) P.Beauv.,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,SYNONYM
+157332,157332,Setaria viridis (L.) P.Beauv.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157333,157333,Sherardia arvensis L.,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Rubiaceae,SPECIES,ACCEPTED
+157334,157334,Sida spinosa E.Mey. ex C.Muell.,Sida dregei Burtt Davy,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,SYNONYM
+157335,157335,Silene armeria Bieb.,Atocion compactum (Fisch.) Oxelman,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157336,157336,Silene chalcedonica E.H.L.Krause,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157337,157337,Silene conoidea L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157338,157338,Silene coronaria (L.) Clairv.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157339,157339,Silene cserei Baumg.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157340,157340,Silene dichotoma Ehrh.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157341,157341,Silene dioica (L.) Clairv.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157342,157342,Silene flos-cuculi (L.) Greuter & Burdet,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157343,157343,Silene gallica L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157344,157344,Silene latifolia Poir.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157345,157345,Silene noctiflora L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157346,157346,Silene sibirica Pers.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157347,157347,Silene stellata Ait.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157348,157348,Silene vulgaris (Moench) Garcke,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157349,157349,Silphium integrifolium Michx.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157350,157350,Silybum marianum Gaertn.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157351,157351,"Simitidion simile (C.L.Koch, 1836)",,Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,SPECIES,ACCEPTED
+157352,157352,Sinapis alba L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+157353,157353,Sinapis arvensis L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+157354,157354,Sisymbrium altissimum L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+157355,157355,Sisymbrium loeselii L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+157356,157356,Sisymbrium officinale (L.) Scop.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+157357,157357,Sisymbrium orientale L.,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+157358,157358,"Sitticus ammophilus (Thorell, 1875)","Attulus ammophilus (Thorell, 1875)",Animalia,Arthropoda,Arachnida,Araneae,Salticidae,SPECIES,SYNONYM
+157359,157359,"Sitticus fasciger (Simon, 1880)",,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,SPECIES,ACCEPTED
+157360,157360,Solanum americanum Mill.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+157361,157361,Solanum carolinense L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+157362,157362,Solanum dulcamara L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+157363,157363,Solanum lycopersicum L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+157364,157364,Solanum nigrum L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+157365,157365,Solanum physalifolium Rusby,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+157366,157366,Solanum rostratum Dun.,Solanum angustifolium Mill.,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,SYNONYM
+157367,157367,Solanum sisymbriifolium Lam.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+157368,157368,Solanum tuberosum L.,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,SPECIES,ACCEPTED
+157369,157369,Soliva sessilis Ruiz & Pav.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157370,157370,Sonchus arvensis L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157371,157371,Sonchus asper Hill,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157372,157372,Sonchus oleraceus L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157373,157373,Sonchus palustris L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157374,157374,Sorbaria sorbifolia (L.) A.Braun,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157375,157375,Sorbus aucuparia L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157376,157376,Sorbus hybrida Maly,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,DOUBTFUL
+157377,157377,Sorghum bicolor (L.) Moench,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157378,157378,Sorghum halepense Pers.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157379,157379,"Sosticus loricatus (L.Koch, 1866)",,Animalia,Arthropoda,Arachnida,Araneae,Gnaphosidae,SPECIES,ACCEPTED
+157380,157380,Spartina anglica C.E.Hubb.,Sporobolus anglicus (C.E.Hubb.) P.M.Peterson & Saarela,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,SYNONYM
+157381,157381,Spergula arvensis L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157382,157382,Spergularia diandra (Guss.) Heldr.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157383,157383,Spergularia media (L.) C.Presl,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157384,157384,Spergularia rubra (L.) J.Presl & C.Presl,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157385,157385,Sphaerophysa salsula DC.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157386,157386,"Sphinx pinastri Linnaeus, 1758",,Animalia,Arthropoda,Insecta,Lepidoptera,Sphingidae,SPECIES,ACCEPTED
+157387,157387,Spinacia oleracea L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,SPECIES,ACCEPTED
+157388,157388,Spiraea chamaedryfolia L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157389,157389,Spiraea japonica L.f.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157390,157390,Spiraea prunifolia Siebold & Zucc.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157391,157391,Spiraea salicifolia L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157392,157392,Spiraea thunbergii Siebold ex Blume,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,SPECIES,ACCEPTED
+157393,157393,Stachys annua L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+157394,157394,Stachys arvensis L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+157395,157395,Stachys byzantina K.Koch,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+157396,157396,Stachys germanica L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+157397,157397,Stachys officinalis A.Kerner,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+157398,157398,Stachys palustris L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+157399,157399,Stachys sylvatica L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+157400,157400,"Steatoda bipunctata (Linnaeus, 1758)",,Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,SPECIES,ACCEPTED
+157401,157401,"Steatoda castanea (Clerck, 1757)",,Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,SPECIES,ACCEPTED
+157402,157402,"Steatoda grossa (C.L.Koch, 1838)",,Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,SPECIES,ACCEPTED
+157403,157403,"Steatoda triangulosa (Walckenaer, 1802)",,Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,SPECIES,ACCEPTED
+157404,157404,Stellaria graminea L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157405,157405,Stellaria holostea L.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157406,157406,Stellaria media (L.) Vill.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157407,157407,Stellaria pallida Dum.,Stellaria media (L.) Vill.,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,SYNONYM
+157408,157408,Stellaria palustris Retz.,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157409,157409,"Stethorus punctillum (Weise, 1891)",,Animalia,Arthropoda,Insecta,Coleoptera,Coccinellidae,SPECIES,ACCEPTED
+157410,157410,"Stomis pumicatus (Panzer, 1796)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+157411,157411,Stratiotes aloides L.,,Plantae,Tracheophyta,Liliopsida,Alismatales,Hydrocharitaceae,SPECIES,ACCEPTED
+157412,157412,"Streptopelia decaocto (Frivaldszky, 1838)",,Animalia,Chordata,Aves,Columbiformes,Columbidae,SPECIES,ACCEPTED
+157413,157413,"Sturnus vulgaris Linnaeus, 1758",,Animalia,Chordata,Aves,Passeriformes,Sturnidae,SPECIES,ACCEPTED
+157414,157414,"Styela clava Herdman, 1881",,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,SPECIES,ACCEPTED
+157415,157415,Succisa pratensis Moench,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+157416,157416,Succisella inflexa (Kluk) Beck,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+157417,157417,"Sus scrofa Linnaeus, 1758",,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,SPECIES,ACCEPTED
+157418,157418,Symphoricarpos orbiculatus Moench,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+157419,157419,Symphyotrichum parviceps (E.S.Burgess) G.L.Nesom,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157420,157420,Symphytum asperum Lepech.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+157421,157421,Symphytum officinale L.,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,SPECIES,ACCEPTED
+157422,157422,"Synageles venator (Lucas, 1836)",,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,SPECIES,ACCEPTED
+157423,157423,Syringa reticulata (Blume) H.Hara,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Oleaceae,SPECIES,ACCEPTED
+157424,157424,Syringa vulgaris L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Oleaceae,SPECIES,ACCEPTED
+157425,157425,"Taeniothrips inconsequens (Uzel, 1895)",,Animalia,Arthropoda,Insecta,Thysanoptera,Thripidae,SPECIES,ACCEPTED
+157426,157426,Tagetes erecta L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157427,157427,Tanacetum balsamita L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157428,157428,Tanacetum parthenium Sch.Bip.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157429,157429,Tanacetum vulgare L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157430,157430,"Tanichthys albonubes Lin, 1932",,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,SPECIES,ACCEPTED
+157431,157431,"Tapinesthis inermis (Simon, 1882)",,Animalia,Arthropoda,Arachnida,Araneae,Oonopidae,SPECIES,ACCEPTED
+157432,157432,Taraxacum erythrospermum Andrz. ex Besser,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157433,157433,Taraxacum officinale F.H.Wigg.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157434,157434,Taraxacum palustre (Lyons) Symons,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157435,157435,Teesdalia nudicaulis (L.) W.T.Aiton,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,ACCEPTED
+157436,157436,"Tegenaria agrestis (Walckenaer, 1802)","Eratigena agrestis (Walckenaer, 1802)",Animalia,Arthropoda,Arachnida,Araneae,Agelenidae,SPECIES,SYNONYM
+157437,157437,"Tegenaria atrica C.L.Koch, 1843","Eratigena atrica (C.L.Koch, 1843)",Animalia,Arthropoda,Arachnida,Araneae,Agelenidae,SPECIES,SYNONYM
+157438,157438,"Tegenaria domestica (Clerck, 1757)",,Animalia,Arthropoda,Arachnida,Araneae,Agelenidae,SPECIES,ACCEPTED
+157439,157439,"Tegenaria duellica Simon, 1875","Eratigena duellica (Simon, 1875)",Animalia,Arthropoda,Arachnida,Araneae,Agelenidae,SPECIES,SYNONYM
+157440,157440,"Tetropium fuscum (Fabricius, 1787)",,Animalia,Arthropoda,Insecta,Coleoptera,Cerambycidae,SPECIES,ACCEPTED
+157441,157441,Teucrium botrys L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+157442,157442,Teucrium scorodonia L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+157443,157443,Thalictrum aquilegifolium L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+157444,157444,"Thanatus vulgaris Simon, 1870",,Animalia,Arthropoda,Arachnida,Araneae,Philodromidae,SPECIES,ACCEPTED
+157445,157445,"Theridion melanostictum O.Pickard-Cambridge, 1876",,Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,SPECIES,ACCEPTED
+157446,157446,"Theridion melanurum Hahn, 1831",,Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,SPECIES,ACCEPTED
+157447,157447,"Theridion varians Hahn, 1833",,Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,SPECIES,ACCEPTED
+157448,157448,"Theridula opulenta (Walckenaer, 1841)",,Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,SPECIES,ACCEPTED
+157449,157449,Thermopsis gracilis Howell,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157450,157450,Thermopsis mollis M.A.Curtis ex A.Gray,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157451,157451,Thinopyrum intermedium (Host) Barkworth & D.R.Dewey,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157452,157452,Thinopyrum junceum (L.) ÃƒÂ.LÃƒÂ¶ve,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157453,157453,Thinopyrum ponticum (Podp.) Barkworth & D.R.Dewey,Thinopyrum elongatum (Host) D.R.Dewey,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,SYNONYM
+157454,157454,Thinopyrum pycnanthum (Godr.) Barkworth,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157455,157455,Thladiantha dubia Bunge,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,SPECIES,ACCEPTED
+157456,157456,Thlaspi arvense L.,Sinapis arvensis subsp. Arvensis,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Brassicaceae,SPECIES,SYNONYM
+157457,157457,"Thuidium tamariscinum W.P.Schimper, 1852",,Plantae,Bryophyta,Bryopsida,Hypnales,Thuidiaceae,SPECIES,ACCEPTED
+157458,157458,Thymelaea passerina (L.) Coss. & Germ.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Thymelaeaceae,SPECIES,ACCEPTED
+157459,157459,"Thymelicus lineola (Ochsenheimer, 1808)",,Animalia,Arthropoda,Insecta,Lepidoptera,Hesperiidae,SPECIES,ACCEPTED
+157460,157460,Thymus praecox Opiz,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+157461,157461,Thymus pulegioides L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,SPECIES,ACCEPTED
+157462,157462,Tilia cordata Mill.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED
+157463,157463,Tilia platyphyllos Scop.,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,SPECIES,ACCEPTED
+157464,157464,"Tinca tinca (Linnaeus, 1758)",,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,SPECIES,ACCEPTED
+157465,157465,"Tinea laricella Hubner, 1817",,Animalia,Arthropoda,Insecta,Lepidoptera,Coleophoridae,SPECIES,ACCEPTED
+157466,157466,"Tinea serratella Linnaeus, 1761",,Animalia,Arthropoda,Insecta,Lepidoptera,Coleophoridae,SPECIES,ACCEPTED
+157467,157467,"Tiso vagans (Blackwall, 1834)",,Animalia,Arthropoda,Arachnida,Araneae,Linyphiidae,SPECIES,ACCEPTED
+157468,157468,"Tomicus Latreille, 1802",,Animalia,Arthropoda,Insecta,Coleoptera,Curculionidae,SPECIES,ACCEPTED
+157469,157469,Torilis arvensis Link,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+157470,157470,Torilis japonica DC.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+157471,157471,Torilis nodosa (L.) Gaertn.,,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,SPECIES,ACCEPTED
+157472,157472,"Trachemys scripta (Thunberg In Schoepff, 1792)",,Animalia,Chordata,Reptilia,Testudines,Emydidae,SPECIES,ACCEPTED
+157473,157473,Tradescantia virginiana L.,,Plantae,Tracheophyta,Liliopsida,Commelinales,Commelinaceae,SPECIES,ACCEPTED
+157474,157474,Tragopogon dubius Scop.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157475,157475,Tragopogon porrifolius L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157476,157476,Tragopogon pratensis L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157477,157477,Trapa natans L.,,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Lythraceae,SPECIES,ACCEPTED
+157478,157478,"Trapezium liratum (Reeve, 1843)","Neotrapezium liratum (Reeve, 1843)",Animalia,Mollusca,Bivalvia,Venerida,Trapezidae,SPECIES,SYNONYM
+157479,157479,"Trechus obtusus Erichson, 1837",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+157480,157480,"Trechus quadristriatus (Schrank, 1781)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+157481,157481,"Trechus rubens (Fabricius, 1792)",,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,SPECIES,ACCEPTED
+157482,157482,Tribulus terrestris L.,,Plantae,Tracheophyta,Magnoliopsida,Zygophyllales,Zygophyllaceae,SPECIES,ACCEPTED
+157483,157483,"Trichogaster trichopterus (Pallas, 1770)","Trichopodus trichopterus (Pallas, 1770)",Animalia,Chordata,Actinopterygii,Perciformes,Osphronemidae,SPECIES,SYNONYM
+157484,157484,Tridens flavus Hitchc.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157485,157485,Trifolium arvense L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157486,157486,Trifolium aureum Pollich,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157487,157487,Trifolium campestre Schreb.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157488,157488,Trifolium dubium Sibth.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157489,157489,Trifolium fragiferum L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157490,157490,Trifolium hybridum L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157491,157491,Trifolium incarnatum L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157492,157492,Trifolium medium L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157493,157493,Trifolium ornithopodioides Sm.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157494,157494,Trifolium pannonicum Jacq.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157495,157495,Trifolium pratense L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157496,157496,Trifolium repens L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157497,157497,Trifolium resupinatum L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157498,157498,Trifolium subterraneum L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157499,157499,Trigonella caerulea Ser.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157500,157500,Trigonella corniculata Sibth. & Sm.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157501,157501,Trillium luteum Harbison,,Plantae,Tracheophyta,Liliopsida,Liliales,Melanthiaceae,SPECIES,ACCEPTED
+157502,157502,Tripleurospermum inodorum (L.) Sch.Bip.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157503,157503,Tripleurospermum perforatum (MÃ©rat) M.LaÃ­nz,Tripleurospermum inodorum (L.) Sch.Bip.,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,SYNONYM
+157504,157504,Trisetum flavescens (L.) P.Beauv.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157505,157505,Triticum aestivum L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157506,157506,Triticum durum Desf.,Triticum turgidum subsp. durum (Desf.) Husn.,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,SYNONYM
+157507,157507,Triticum turgidum L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157508,157508,"Trochosa ruricola (De Geer, 1778)",,Animalia,Arthropoda,Arachnida,Araneae,Lycosidae,SPECIES,ACCEPTED
+157509,157509,Trollius europaeus L.,,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,SPECIES,ACCEPTED
+157510,157510,Tulipa sylvestris L.,,Plantae,Tracheophyta,Liliopsida,Liliales,Liliaceae,SPECIES,ACCEPTED
+157511,157511,"Turritopsis nutricula McCrady, 1857",,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Oceaniidae,SPECIES,ACCEPTED
+157512,157512,Tussilago farfara L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157513,157513,"Tyria jacobaeae (Linnaeus, 1758)",,Animalia,Arthropoda,Insecta,Lepidoptera,Erebidae,SPECIES,ACCEPTED
+157514,157514,Ulex europaeus L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157515,157515,Ulmus glabra Huds.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Ulmaceae,SPECIES,ACCEPTED
+157516,157516,Ulmus parvifolia Jacq.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Ulmaceae,SPECIES,ACCEPTED
+157517,157517,Ulmus procera Salisb.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Ulmaceae,SPECIES,ACCEPTED
+157518,157518,Ulmus pumila L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Ulmaceae,SPECIES,ACCEPTED
+157519,157519,Undaria pinnatifida (Harv.) Suringar,,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Alariaceae,SPECIES,ACCEPTED
+157520,157520,"Urozelotes rusticus (L.Koch, 1872)",,Animalia,Arthropoda,Arachnida,Araneae,Gnaphosidae,SPECIES,ACCEPTED
+157521,157521,Urtica urens L.,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Urticaceae,SPECIES,ACCEPTED
+157522,157522,"Utetheisa ornatrix Linnaeus, 1758",,Animalia,Arthropoda,Insecta,Lepidoptera,Erebidae,SPECIES,ACCEPTED
+157523,157523,Vaccaria hispanica (Miller) Rauschert,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,SPECIES,ACCEPTED
+157524,157524,Valeriana officinalis L.,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+157525,157525,Valerianella locusta (L.) Laterr.,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,SPECIES,ACCEPTED
+157526,157526,Ventenata dubia Coss. & Durieu,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157527,157527,Verbascum blattaria L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Scrophulariaceae,SPECIES,ACCEPTED
+157528,157528,Verbascum lychnitis L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Scrophulariaceae,SPECIES,ACCEPTED
+157529,157529,Verbascum nigrum L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Scrophulariaceae,SPECIES,ACCEPTED
+157530,157530,Verbascum phlomoides L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Scrophulariaceae,SPECIES,ACCEPTED
+157531,157531,Verbascum thapsus L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Scrophulariaceae,SPECIES,ACCEPTED
+157532,157532,Verbascum virgatum Stokes,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Scrophulariaceae,SPECIES,ACCEPTED
+157533,157533,Verbena bonariensis L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Verbenaceae,SPECIES,ACCEPTED
+157534,157534,Veronica agrestis L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157535,157535,Veronica arvensis L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157536,157536,Veronica austriaca L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157537,157537,Veronica beccabunga L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157538,157538,Veronica biloba Schreb.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157539,157539,Veronica chamaedrys L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157540,157540,Veronica filiformis Sm.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157541,157541,Veronica grandis Fisch. ex Spreng.,Veronica daurica Steven,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,SYNONYM
+157542,157542,Veronica hederifolia L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157543,157543,Veronica longifolia L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157544,157544,Veronica officinalis L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157545,157545,Veronica persica hort. ex Poir.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157546,157546,Veronica polita Fries,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157547,157547,Veronica spicata L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157548,157548,Veronica verna L.,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Plantaginaceae,SPECIES,ACCEPTED
+157549,157549,Viburnum lantana L.,,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Adoxaceae,SPECIES,ACCEPTED
+157550,157550,Vicia cracca L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157551,157551,Vicia faba L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157552,157552,Vicia hirsuta (L.) Gray,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157553,157553,Vicia lathyroides L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157554,157554,Vicia sativa L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157555,157555,Vicia sepium L.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157556,157556,Vicia tetrasperma (L.) Schreb.,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157557,157557,Vicia villosa Roth,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,SPECIES,ACCEPTED
+157558,157558,Vinca major L.,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,SPECIES,ACCEPTED
+157559,157559,Vinca minor L.,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,SPECIES,ACCEPTED
+157560,157560,Viola arvensis Murray,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Violaceae,SPECIES,ACCEPTED
+157561,157561,Viola odorata L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Violaceae,SPECIES,ACCEPTED
+157562,157562,Viola tricolor L.,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Violaceae,SPECIES,ACCEPTED
+157563,157563,Vitis vinifera L.,,Plantae,Tracheophyta,Magnoliopsida,Vitales,Vitaceae,SPECIES,ACCEPTED
+157564,157564,Vulpia bromoides (L.) Gray,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157565,157565,Vulpia myuros (L.) C.C.Gmel.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157566,157566,Xanthisma texanum DC.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157567,157567,Xanthium spinosum L.,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,SPECIES,ACCEPTED
+157568,157568,"Xanthogaleruca luteola (MÃ¼ller, 1766)",,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,SPECIES,ACCEPTED
+157569,157569,"Xiphophorus hellerii Heckel, 1848",,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,SPECIES,ACCEPTED
+157570,157570,"Xiphophorus maculatus (GÃƒÂ¼nther, 1866)",,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,SPECIES,ACCEPTED
+157571,157571,"Xylosandrus germanus Hoffmann & C.H., 1941",,Animalia,Arthropoda,Insecta,Coleoptera,Curculionidae,SPECIES,DOUBTFUL
+157572,157572,"Xysticus cristatus (Clerck, 1757)",,Animalia,Arthropoda,Arachnida,Araneae,Thomisidae,SPECIES,ACCEPTED
+157573,157573,Yucca flaccida Haw.,,Plantae,Tracheophyta,Liliopsida,Asparagales,Asparagaceae,SPECIES,ACCEPTED
+157574,157574,Zea mays L.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157575,157575,"Zodarion rubidum Simon, 1914",,Animalia,Arthropoda,Arachnida,Araneae,Zodariidae,SPECIES,ACCEPTED
+157576,157576,"Zosis geniculata (Olivier, 1789)",,Animalia,Arthropoda,Arachnida,Araneae,Uloboridae,SPECIES,ACCEPTED
+157577,157577,Zostera japonica Asch. & Graebn.,,Plantae,Tracheophyta,Liliopsida,Alismatales,Zosteraceae,SPECIES,ACCEPTED
+157578,157578,Zoysia japonica Steud.,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,SPECIES,ACCEPTED
+157579,157579,"Zygiella atrica (C.L.Koch, 1845)",,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,SPECIES,ACCEPTED
+157580,157580,"Zygiella x-notata (Clerck, 1757)",,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,SPECIES,ACCEPTED
