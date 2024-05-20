@@ -7,12 +7,15 @@ library(ggplot2)
 library(terra)
 library(geodata)
 library(tidyverse)
+library(vegan)
 
 setwd('/Users/ccruzr/Library/Mobile Documents/com~apple~CloudDocs/Cristian/Documents/Estudios/Postgrado/PhD/Courses/Modeling and Indicators Bios2/alien_index_course')
 getwd()
 
 
 qc <- gadm('CAN', level=1, path=tempdir())
+ca_pla <- project(qc, 'EPSG:32198' )
+
 qc<- qc[qc$NAME_1 %in% 'Québec',]
 plot(qc)
 
@@ -353,11 +356,44 @@ ggplot(aes(x = Window, y = median)) +
 write.csv(win_area_vec_long, '02ProcessedData/Windo_5Yr_vector.csv')
 write.csv(win_area_ras_long, '02ProcessedData/Windo_5Yr_raster.csv')
 write.csv(win_area_ras, '02ProcessedData/Windo_5Yr_raster_ext.csv')
+write.csv(win_area_vec, '02ProcessedData/Windo_5Yr_vector_ext.csv')
 
 writeRaster(qc_r, '02ProcessedData/Quebec_planar_raster.tif')
 qc_r
 plot(qc_r)
 
 
-### plots 
+  rich <- vect(mapp_qc_t_70, geom = c('x', 'y'), crs= 'EPSG:32198')
+  rich_r <- rasterize(rich, qc_r, "species", function(x, ...) length(unique(na.omit(x))))
+writeRaster(rich_r, paste0('02ProcessedData/RastWindows/allrecords.tif'), overwrite = T)
+
+
+writeVector(qc_pla, '00RawData/Quebec_plan.shp')
+writeVector(ca_pla, '00RawData/Canada_plan.shp', overwrite=TRUE)
+
+
+for(i in 1:52){
+    pb <- txtProgressBar(min = 0, max = 100, style = 3)
+    setTxtProgressBar(pb, (i*100)/(52))
+window.i <- mapp_qc_t_70[mapp_qc_t_70$year >= (1969+i) & mapp_qc_t_70$year <= (1973+i),] 
+    rich <- vect(window.i, geom = c('x', 'y'), crs= 'EPSG:32198')
+  rich_r <- rasterize(rich, qc_r, "species", function(x, ...) length(unique(na.omit(x))))
+writeRaster(rich_r, paste0('02ProcessedData/RastWindows/', (1969+i), '.tif'), overwrite = T)
+}
+i<-54
+plot(rich_r)
+plot(qc_pla, add =T)
+
+
+sta <- rast(list.files('02ProcessedData/RastWindows/', full.names = T))
+
+ann <- animate(sta, n=1)
+1+1
+sta[[1]]
+
+geom_raster(data = sta[[1]], 
+                  
+                  alpha = 0.5, 
+                  size = 0) +  ## size = 0 to remove the polygon outlines
+     scale_fill_gradientn(colours = topo.colors(255))
 
