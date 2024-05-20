@@ -10,5 +10,5 @@
 !00RawData/RawData.csv
 !*/.gitkeep
 !02ProcessedData/_invasive_spp.csv*
-!02ProcessedData/Windo_5Yr_vector_ext.csv*
-!02ProcessedData/Windo_5Yr_raster_ext.csv*
+!02ProcessedData/Windo_5Yr_vector_ext.csv
+!02ProcessedData/Windo_5Yr_raster_ext.csv
